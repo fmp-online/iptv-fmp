@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-name="Kanali 7 Ⓢ" tvg-logo="https://i.imgur.com/rL2v9pM.png" tvg-id="Kanali7.al" tvg-country="AL" group-title="Albania",Kanali 7 Ⓢ
 https://fe.tring.al/delta/105/out/u/1200_1.m3u8
 
-#EXTINF:-1 tvg-name="TVN" group-title="Chile", TVN
-https://mdstrm.com/live-stream-playlist/57f40c7f7f94b2d967000b84.m3u8
+#EXTINF:-1 tvg-name="TVN" group-title="Chile", TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:-1 tvg-name="Mega" group-title="Chile", Mega
 https://mdstrm.com/live-stream-playlist/5c0c7f3c0f2f4e0007c3d5b1.m3u8
