@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TVN" group-title="Chile", TVN
+https://mdstrm.com/live-stream-playlist/57f40c7f7f94b2d967000b84.m3u8
+
+#EXTINF:-1 tvg-name="Mega" group-title="Chile", Mega
+https://mdstrm.com/live-stream-playlist/5c0c7f3c0f2f4e0007c3d5b1.m3u8
+
+#EXTINF:-1 tvg-name="Chilevisión" group-title="Chile", Chilevisión
+https://mdstrm.com/live-stream-playlist/5b1f7b6f5f4b8c0007e8b2c3.m3u8
+
+#EXTINF:-1 tvg-name="Canal 13" group-title="Chile", Canal 13
+https://mdstrm.com/live-stream-playlist/5b1f7c1f5f4b8c0007e8b2c5.m3u8
+
+#EXTINF:-1 tvg-name="La Red" group-title="Chile", La Red
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV+" group-title="Chile", TV+
+https://unlimited1-cl-isp.dps.live/tvmas/tvmas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="24 Horas" group-title="Noticias", 24 Horas
+https://mdstrm.com/live-stream-playlist/5aaabe9a2c6e5c0007f0a4a1.m3u8
