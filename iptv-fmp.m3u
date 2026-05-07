@@ -1,73 +1,100 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 
+#EXTINF:-1 tvg-id="1" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV
+#EXTINF:-1 tvg-id="2" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", Mega 
+#EXTINF:-1 tvg-id="3" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", Mega 
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png", NTV 
+#EXTINF:-1 tvg-id="4" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png", NTV 
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
-#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png", La Red 
+#EXTINF:-1 tvg-id="5" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png", La Red 
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+ 
+#EXTINF:-1 tvg-id="6" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+ 
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas 
+#EXTINF:-1 tvg-id="7" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TVN 24 Horas 
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TV Chile
+#EXTINF:-1 tvg-id="8" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png", TVN3 
+#EXTINF:-1 tvg-id="9" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png", TVN3 
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="457" tvg-name="13 Deportes" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", 13 Deportes
+#EXTINF:-1 tvg-id="10" tvg-name="13 Deportes" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", 13 Deportes
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png", T13 
+#EXTINF:-1 tvg-id="11" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png", T13 
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1198" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png", T13 Radio 
+#EXTINF:-1 tvg-id="12" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png", T13 Radio 
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png", 13 Cultura 
+#EXTINF:-1 tvg-id="13" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png", 13 Cultura 
 https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1683" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png", 13 Cocina 
+#EXTINF:-1 tvg-id="14" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png", 13 Cocina 
 https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1033" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png", 13 Pop 
+#EXTINF:-1 tvg-id="15" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png", 13 Pop 
 https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png", 13 Teleseries 
+#EXTINF:-1 tvg-id="16" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png", 13 Teleseries 
 https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1446" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png", 13 Festival 
+#EXTINF:-1 tvg-id="17" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png", 13 Festival 
 https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1448" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png", 13 Realities 
+#EXTINF:-1 tvg-id="18" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png", 13 Realities 
 https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1684" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png", 13 Viajes 
+#EXTINF:-1 tvg-id="19" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png", 13 Viajes 
 https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1684" tvg-name="13 Kids", 13 Kids 
+#EXTINF:-1 tvg-id="20" tvg-name="13 Kids", 13 Kids 
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png", U Chile TV 
+#EXTINF:-1 tvg-id="21" tvg-name="U Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png", U Chile TV 
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="54" tvg-name="UCV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png", UCV 
+#EXTINF:-1 tvg-id="22" tvg-name="UCV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png", UCV 
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1152" tvg-name="UCV 2" tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png", UCV 2 
+#EXTINF:-1 tvg-id="23" tvg-name="UCV 2" tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png", UCV 2 
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="youtube" tvg-name="K-Pop 24/7", K-Pop 24/7
-https://www.youtube.com/live/JVocS7Yftw8?si=stNdiUP7tBs_dpH-
+#EXTINF:-1 tvg-id="24" tvg-name="EnerGeek", EnerGeek 
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 tvg-id="25" tvg-name="E!", E! 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-14_720.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="History Centro America", History Centro America
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="Memorias del Corazón", Memorias del Corazón
+https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="Memorias FM Pop Latino", Memorias FM Pop Latino
+https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="Memorias TV Classic", Memorias FM Pop Latino
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="Memorias TV Film", Memorias TV Film
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="Memorias TV Toons", Memorias TV Toons
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="Memorias TV Tropical", Memorias TV Tropical
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="Zylo Cine Friki", Zylo Cine Friki
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
