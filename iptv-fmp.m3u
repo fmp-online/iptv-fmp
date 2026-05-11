@@ -96,5 +96,31 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="Memorias TV Tropical", Memorias TV Tropical
 https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-name="PrUEBA", PRUEBA
+#EXTINF:-1 tvg-id="33" tvg-name="Tnt Sport Ar", Tnt Sport Ar
 https://qzv4jmsc.fubohd.com/tntsports/mono.m3u8?token=57febf290a644a01b189300eb6592c5fad8ba02d-ef-1778524991-1778506991
+
+#EXTINF:-1 tvg-id="34" tvg-name="Tnt Sport Cl", Tnt Sport Cl
+https://8c51.streameasthd.net:443/tntsportschile/index.m3u8?token=5aed481d3e61c42089854c6c9ef3c5b5a1b898a1-49-1778558737-1778504737&ip=179.60.78.25
+
+#EXTINF:-1 tvg-id="35" tvg-name="ESPN 1", ESPN 1
+https://bgfuzq.fubohd.com/espn/mono.m3u8?token=51b807e30faccd3b86f26fe2ddc5ab20e2369f90-eb-1778530906-1778512906
+
+#EXTINF:-1 tvg-id="36" tvg-name="ESPN 2", ESPN 2
+https://tyg2mnl9.fubohd.com/espn2/mono.m3u8?token=691665813eb29012152b126d221c4bd75a03a555-b8-1778530960-1778512960
+
+#EXTINF:-1 tvg-id="37" tvg-name="ESPN 3", ESPN 3
+https://bgfuzq.fubohd.com/espn3/mono.m3u8?token=fecfec8e287c58694a714cb55010b55850388bc9-33-1778530998-1778512998
+
+#EXTINF:-1 tvg-id="38" tvg-name="ESPN Premium", ESPN Premium
+https://agvyby.fubohd.com/espnpremium/mono.m3u8?token=3a02ee73b83700849fc4108ae33c59fb4616f7dc-b2-1778531078-1778513078
+
+
+#EXTINF:-1 tvg-id="39" tvg-name="DirectTV Sport", DirectTV Sport
+https://tyg2mnl9.fubohd.com/dsports/mono.m3u8?token=5fec83571ad2ef339128f4676e502229a891f3a7-ea-1778531115-1778513115
+
+#EXTINF:-1 tvg-id="40" tvg-name="DirectTV Sport2", DirectTV Sport2
+https://x4bnd7lq.fubohd.com/dsports2/mono.m3u8?token=1e0cb79ec9d13467eeaa1997f89b5c25cc5fa0d0-24-1778531201-1778513201
+
+#EXTINF:-1 tvg-id="41" tvg-name="DirectTV Sport +", DirectTV Sport +
+https://cgxheq.fubohd.com/dsportsplus/mono.m3u8?token=245e8ba40b98eebbb266e1868acd4c566dc72baa-c2-1778531234-1778513234
+
