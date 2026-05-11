@@ -135,3 +135,15 @@ https://a2vlca.fubohd.com/tycsports/mono.m3u8?token=61a1fa6b19503600b505577d43db
 
 #EXTINF:-1 tvg-id="45" tvg-name="Win Sports Premium", Win Sports Premium
 https://agvyby.fubohd.com/winsportsplus/mono.m3u8?token=37a80998bb97d1c37abb2c890e6f864e177d95ad-36-1778532738-1778514738
+
+#EXTINF:-1 tvg-id="46" tvg-name="History Latam 1", History Latam 1
+https://regionales.saohgdasregions.fun:9092/MTc5LjYwLjc4LjI1/44_.m3u8?token=Vd0R5ldBmSo3o0f3qkO77g&expires=1778576944
+
+#EXTINF:-1 tvg-id="47" tvg-name="History Latam 1", History Latam 1
+https://regionales.saohgdasregions.fun:9092/MTc5LjYwLjc4LjI1/44_.m3u8?token=Vd0R5ldBmSo3o0f3qkO77g&expires=1778576944
+
+#EXTINF:-1 tvg-id="48" tvg-name="History Latam 2", History Latam 2
+https://regionales.saohgdasregions.fun:9092/MTc5LjYwLjc4LjI1/45_.m3u8?token=nA9tTl7HTQY4D75YjsDxnA&expires=1778577156
+
+#EXTINF:-1 tvg-id="49" tvg-name="H&H", H&H
+https://regionales.saohgdasregions.fun:9092/MTc5LjYwLjc4LjI1/42_.m3u8?token=SqPPrFM4-ET_YWlel7gBwA&expires=1778577274
