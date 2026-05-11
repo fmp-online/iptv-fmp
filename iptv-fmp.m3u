@@ -124,3 +124,14 @@ https://x4bnd7lq.fubohd.com/dsports2/mono.m3u8?token=1e0cb79ec9d13467eeaa1997f89
 #EXTINF:-1 tvg-id="41" tvg-name="DirectTV Sport +", DirectTV Sport +
 https://cgxheq.fubohd.com/dsportsplus/mono.m3u8?token=245e8ba40b98eebbb266e1868acd4c566dc72baa-c2-1778531234-1778513234
 
+#EXTINF:-1 tvg-id="42" tvg-name="Fox Sport", Fox Sport
+https://c2nvdxq.fubohd.com/foxsports/mono.m3u8?token=1c7b68bdde7f76415a13e44dbe3b923c693fb5ff-4-1778532486-1778514486
+
+#EXTINF:-1 tvg-id="43" tvg-name="Fox Sport 2", Fox Sport 2
+https://qzv4jmsc.fubohd.com/foxsports2/mono.m3u8?token=5b25cbd440745b9a4f1f2954e9f91679ee2da13d-fd-1778532545-1778514545
+
+#EXTINF:-1 tvg-id="44" tvg-name="TyC Sports", TyC Sports
+https://a2vlca.fubohd.com/tycsports/mono.m3u8?token=61a1fa6b19503600b505577d43db2b0ef9c8289c-8c-1778532688-1778514688
+
+#EXTINF:-1 tvg-id="45" tvg-name="Win Sports Premium", Win Sports Premium
+https://agvyby.fubohd.com/winsportsplus/mono.m3u8?token=37a80998bb97d1c37abb2c890e6f864e177d95ad-36-1778532738-1778514738
