@@ -96,7 +96,5 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="Memorias TV Tropical", Memorias TV Tropical
 https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-name="Zylo Cine Friki", Zylo Cine Friki
-https://archive.org/download/ein-srregio/EInSRREGIO.mkv
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Sylvanian_Families_la_pelaicula_El_regalo_de_Freya-890102680-large.jpg",Sylvanian Families La Película: El Regalo de Freya
-http://ia902200.us.archive.org/26/items/Peliculas-wii/Sylvanian%20Families%20La%20Pelicula%20-%20El%20regalo%20de%20Freya.mp4
+#EXTINF:-1 tvg-id="33" tvg-name="PrUEBA", PRUEBA
+https://qzv4jmsc.fubohd.com/tntsports/mono.m3u8?token=57febf290a644a01b189300eb6592c5fad8ba02d-ef-1778524991-1778506991
