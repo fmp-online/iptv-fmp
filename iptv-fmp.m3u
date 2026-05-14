@@ -97,44 +97,7 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="Tnt Sport Ar", Tnt Sport Ar
-https://qzv4jmsc.fubohd.com/tntsports/mono.m3u8?token=57febf290a644a01b189300eb6592c5fad8ba02d-ef-1778524991-1778506991
-
-#EXTINF:-1 tvg-id="34" tvg-name="Tnt Sport Cl", Tnt Sport Cl
-https://8c51.streameasthd.net:443/tntsportschile/index.m3u8?token=5aed481d3e61c42089854c6c9ef3c5b5a1b898a1-49-1778558737-1778504737&ip=179.60.78.25
-
-#EXTINF:-1 tvg-id="35" tvg-name="ESPN 1", ESPN 1
-https://bgfuzq.fubohd.com/espn/mono.m3u8?token=51b807e30faccd3b86f26fe2ddc5ab20e2369f90-eb-1778530906-1778512906
-
-#EXTINF:-1 tvg-id="36" tvg-name="ESPN 2", ESPN 2
-https://tyg2mnl9.fubohd.com/espn2/mono.m3u8?token=691665813eb29012152b126d221c4bd75a03a555-b8-1778530960-1778512960
-
-#EXTINF:-1 tvg-id="37" tvg-name="ESPN 3", ESPN 3
-https://bgfuzq.fubohd.com/espn3/mono.m3u8?token=fecfec8e287c58694a714cb55010b55850388bc9-33-1778530998-1778512998
-
-#EXTINF:-1 tvg-id="38" tvg-name="ESPN Premium", ESPN Premium
-https://agvyby.fubohd.com/espnpremium/mono.m3u8?token=3a02ee73b83700849fc4108ae33c59fb4616f7dc-b2-1778531078-1778513078
-
-
-#EXTINF:-1 tvg-id="39" tvg-name="DirectTV Sport", DirectTV Sport
-https://tyg2mnl9.fubohd.com/dsports/mono.m3u8?token=5fec83571ad2ef339128f4676e502229a891f3a7-ea-1778531115-1778513115
-
-#EXTINF:-1 tvg-id="40" tvg-name="DirectTV Sport2", DirectTV Sport2
-https://x4bnd7lq.fubohd.com/dsports2/mono.m3u8?token=1e0cb79ec9d13467eeaa1997f89b5c25cc5fa0d0-24-1778531201-1778513201
-
-#EXTINF:-1 tvg-id="41" tvg-name="DirectTV Sport +", DirectTV Sport +
-https://cgxheq.fubohd.com/dsportsplus/mono.m3u8?token=245e8ba40b98eebbb266e1868acd4c566dc72baa-c2-1778531234-1778513234
-
-#EXTINF:-1 tvg-id="42" tvg-name="Fox Sport", Fox Sport
-https://c2nvdxq.fubohd.com/foxsports/mono.m3u8?token=1c7b68bdde7f76415a13e44dbe3b923c693fb5ff-4-1778532486-1778514486
-
-#EXTINF:-1 tvg-id="43" tvg-name="Fox Sport 2", Fox Sport 2
-https://qzv4jmsc.fubohd.com/foxsports2/mono.m3u8?token=5b25cbd440745b9a4f1f2954e9f91679ee2da13d-fd-1778532545-1778514545
-
-#EXTINF:-1 tvg-id="44" tvg-name="TyC Sports", TyC Sports
-https://a2vlca.fubohd.com/tycsports/mono.m3u8?token=61a1fa6b19503600b505577d43db2b0ef9c8289c-8c-1778532688-1778514688
-
-#EXTINF:-1 tvg-id="45" tvg-name="Win Sports Premium", Win Sports Premium
-https://agvyby.fubohd.com/winsportsplus/mono.m3u8?token=37a80998bb97d1c37abb2c890e6f864e177d95ad-36-1778532738-1778514738
+http://tvchile.org:2082/34234783/47453627/117757
 
 #EXTINF:-1 tvg-id="46" tvg-name="History Latam 1", History Latam 1
 https://regionales.saohgdasregions.fun:9092/MTc5LjYwLjc4LjI1/44_.m3u8?token=Vd0R5ldBmSo3o0f3qkO77g&expires=1778576944
