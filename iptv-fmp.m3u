@@ -235,3 +235,68 @@ http://tvchile.org:2082/34234783/47453627/448234
 http://tvchile.org:2082/34234783/47453627/451359
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure 2" tvg-logo="https://i.postimg.cc/wBvpY7NZ/digimon-2.png" group-title="ANIME 24/7",24/7 Digimon Adventure 2
 http://tvchile.org:2082/34234783/47453627/451410
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro Infante" tvg-logo="https://i.postimg.cc/0NBTfLy6/pedro-infante.png" group-title="COMEDIA 24/7",24/7 Pedro Infante
+http://tvchile.org:2082/34234783/47453627/149627
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine DC Film HD" tvg-logo="https://i.postimg.cc/TP7F2wtT/cinetv2.png" group-title="FULL CINEMA 24/7",Cine TV: Sr Cine DC Film HD
+http://tvchile.org:2082/34234783/47453627/55295
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine DC Comics HD" tvg-logo="https://i.postimg.cc/TP7F2wtT/cinetv2.png" group-title="FULL CINEMA 24/7",Cine TV: Sr Cine DC Comics HD
+http://tvchile.org:2082/34234783/47453627/55296
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Marvel Studios HD" tvg-logo="https://i.postimg.cc/TP7F2wtT/cinetv2.png" group-title="FULL CINEMA 24/7",Cine TV: Sr Cine Marvel Studios HD
+http://tvchile.org:2082/34234783/47453627/55293
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Marvel Studios Animado HD" tvg-logo="https://i.postimg.cc/TP7F2wtT/cinetv2.png" group-title="FULL CINEMA 24/7",Cine TV: Sr Cine Marvel Studios Animado HD
+http://tvchile.org:2082/34234783/47453627/55294
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Marvel Studios HD" tvg-logo="https://i.postimg.cc/TP7F2wtT/cinetv2.png" group-title="FULL CINEMA 24/7",Cine TV: Sr Cine Marvel Studios HD
+http://tvchile.org:2082/34234783/47453627/55293
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Marvel Studios Animado HD" tvg-logo="https://i.postimg.cc/TP7F2wtT/cinetv2.png" group-title="FULL CINEMA 24/7",Cine TV: Sr Cine Marvel Studios Animado HD
+http://tvchile.org:2082/34234783/47453627/55294
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Lifetime (CO) @" tvg-logo="https://i.postimg.cc/JtC058XZ/lifetime.png" group-title="CULTURA PREMIUM",LAT: Lifetime (CO) @
+http://tvchile.org:2082/34234783/47453627/29371
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central Full HD (CO)" tvg-logo="https://i.postimg.cc/yxh95Fnf/comedy-central.jpg" group-title="CULTURA PREMIUM",LAT: Comedy Central Full HD (CO)
+http://tvchile.org:2082/34234783/47453627/29352
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central HD (CO)" tvg-logo="https://i.postimg.cc/yxh95Fnf/comedy-central.jpg" group-title="CULTURA PREMIUM",LAT: Comedy Central HD (CO)
+http://tvchile.org:2082/34234783/47453627/29351
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Animal Planet Full HD" tvg-logo="https://i.postimg.cc/85z4TVkZ/animal-planet.jpg" group-title="CULTURA PREMIUM",LAT: Animal Planet Full HD
+http://tvchile.org:2082/34234783/47453627/29327
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Animal Planet HD" tvg-logo="https://i.postimg.cc/85z4TVkZ/animal-planet.jpg" group-title="CULTURA PREMIUM",LAT: Animal Planet HD
+http://tvchile.org:2082/34234783/47453627/29326
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Full HD (CO)" tvg-logo="https://i.postimg.cc/zfL48WdL/national-geoghafic.jpg" group-title="CULTURA PREMIUM",LAT: NatGeo Full HD (CO)
+http://tvchile.org:2082/34234783/47453627/29314
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeoMundo" tvg-logo="https://i.postimg.cc/W3nvYwj9/nat-geo-mundo.png" group-title="CULTURA PREMIUM",LAT: NatGeoMundo
+http://tvchile.org:2082/34234783/47453627/288217
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Mundo HD" tvg-logo="https://i.postimg.cc/W3nvYwj9/nat-geo-mundo.png" group-title="CULTURA PREMIUM",LAT: NatGeo Mundo HD
+http://tvchile.org:2082/34234783/47453627/288218
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Wild Full HD (MX)" tvg-logo="https://i.postimg.cc/R0zwZxdc/nat-geo-wild.jpg" group-title="CULTURA PREMIUM",LAT: NatGeo Wild Full HD (MX)
+http://tvchile.org:2082/34234783/47453627/29323
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History Full HD (CO) @" tvg-logo="https://i.postimg.cc/qqfT9Q4M/history.jpg" group-title="CULTURA PREMIUM",LAT: History Full HD (CO) @
+http://tvchile.org:2082/34234783/47453627/29304
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History Full HD (MX)" tvg-logo="https://i.postimg.cc/qqfT9Q4M/history.jpg" group-title="CULTURA PREMIUM",LAT: History Full HD (MX)
+http://tvchile.org:2082/34234783/47453627/29306
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History HD (CO) ©" tvg-logo="https://i.postimg.cc/qqfT9Q4M/history.jpg" group-title="CULTURA PREMIUM",LAT: History HD (CO) ©
+http://tvchile.org:2082/34234783/47453627/29303
+#EXTINF:-1 tvg-id="" tvg-name="H2 History Channel HD" tvg-logo="https://i.postimg.cc/MHJkVWD5/h2.jpg" group-title="CULTURA PREMIUM",H2 History Channel HD
+http://tvchile.org:2082/34234783/47453627/29310
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H Full HD (CO)" tvg-logo="https://i.postimg.cc/nLW26XbV/h-h.jpg" group-title="CULTURA PREMIUM",LAT: Discovery H&H Full HD (CO)
+http://tvchile.org:2082/34234783/47453627/29296
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H Full HD (MX)" tvg-logo="https://i.postimg.cc/nLW26XbV/h-h.jpg" group-title="CULTURA PREMIUM",LAT: Discovery H&H Full HD (MX)
+http://tvchile.org:2082/34234783/47453627/29298
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery HD (CO)" tvg-logo="https://i.postimg.cc/nrjCJn3X/id.jpg" group-title="CULTURA PREMIUM",LAT: Investigation Discovery HD (CO)
+http://tvchile.org:2082/34234783/47453627/29279
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery Full HD (MX) ©" tvg-logo="https://i.postimg.cc/nrjCJn3X/id.jpg" group-title="CULTURA PREMIUM",LAT: Investigation Discovery Full HD (MX) ©
+http://tvchile.org:2082/34234783/47453627/29282
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://i.postimg.cc/Jhh8vM7Z/Sin-t-tulo-4.jpg" group-title="CULTURA PREMIUM",DISCOVERY
+http://tvchile.org:2082/34234783/47453627/29287
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel Full HD (CO)" tvg-logo="https://i.postimg.cc/Jhh8vM7Z/Sin-t-tulo-4.jpg" group-title="CULTURA PREMIUM",LAT: Discovery Channel Full HD (CO)
+http://tvchile.org:2082/34234783/47453627/29288
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel Full HD (MX) ©" tvg-logo="https://i.postimg.cc/Jhh8vM7Z/Sin-t-tulo-4.jpg" group-title="CULTURA PREMIUM",LAT: Discovery Channel Full HD (MX) ©
+http://tvchile.org:2082/34234783/47453627/29290
+#EXTINF:-1 tvg-id="TNTSports1.cl" tvg-name="《 ⚽️ 》TNT SPORTS" tvg-logo="https://i.postimg.cc/MGvwTnLW/tnt-sport-premium.png" group-title="⚽️ DEPORTES CHILE",《 ⚽️ 》TNT SPORTS
+http://tvchile.org:2082/34234783/47453627/24695
+#EXTINF:-1 tvg-id="TNTSports1.cl" tvg-name="《 ⚽️ 》TNT SPORTS ⚽️" tvg-logo="https://i.postimg.cc/MGvwTnLW/tnt-sport-premium.png" group-title="⚽️ DEPORTES CHILE",《 ⚽️ 》TNT SPORTS ⚽️
+http://tvchile.org:2082/34234783/47453627/24694
+#EXTINF:-1 tvg-id="TNTSports1.cl" tvg-name="《 ⚽️ 》TNT SPORTS 《 ⚽️ 》" tvg-logo="https://i.postimg.cc/MGvwTnLW/tnt-sport-premium.png" group-title="⚽️ DEPORTES CHILE",《 ⚽️ 》TNT SPORTS 《 ⚽️ 》
+http://tvchile.org:2082/34234783/47453627/24692
+#EXTINF:-1 tvg-id="" tvg-name="《 ⚽️ 》TNT PREMIUM⚽️ HD" tvg-logo="https://i.postimg.cc/MGvwTnLW/tnt-sport-premium.png" group-title="⚽️ DEPORTES CHILE",《 ⚽️ 》TNT PREMIUM⚽️ HD
+http://tvchile.org:2082/34234783/47453627/24689
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="《 ⚽️ 》TNT PREMIUM⚽️ HD ." tvg-logo="https://i.postimg.cc/MGvwTnLW/tnt-sport-premium.png" group-title="⚽️ DEPORTES CHILE",《 ⚽️ 》TNT PREMIUM⚽️ HD .
+http://tvchile.org:2082/34234783/47453627/24691
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="《 ⚽️ 》TNT PREMIUM⚽️ 2 HD" tvg-logo="https://i.postimg.cc/MGvwTnLW/tnt-sport-premium.png" group-title="⚽️ DEPORTES CHILE",《 ⚽️ 》TNT PREMIUM⚽️ 2 HD
