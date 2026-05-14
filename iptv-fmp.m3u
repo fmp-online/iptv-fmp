@@ -97,7 +97,7 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CL: Etc TV" tvg-logo="https://i.postimg.cc/vBwv6YB9/etc.jpg" group-title="CHILE",CL: Etc TV
-http://tvchile.org:2082/34234783/47453627/30076
+https://unlimited2-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8?nimblesessionid=204352373
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ANIME" tvg-logo="https://i.postimg.cc/FKvmRmJm/247-anime-peliculas.png" group-title="ANIME 24/7",24/7 PELICULAS ANIME
 http://tvchile.org:2082/34234783/47453627/511647
