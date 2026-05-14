@@ -96,17 +96,142 @@ https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="Memorias TV Tropical", Memorias TV Tropical
 https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-name="Tnt Sport Ar", Tnt Sport Ar
-http://tvchile.org:2082/34234783/47453627/117757
+#EXTINF:-1 tvg-id="" tvg-name="CL: Etc TV" tvg-logo="https://i.postimg.cc/vBwv6YB9/etc.jpg" group-title="CHILE",CL: Etc TV
+http://tvchile.org:2082/34234783/47453627/30076
 
-#EXTINF:-1 tvg-id="46" tvg-name="History Latam 1", History Latam 1
-https://regionales.saohgdasregions.fun:9092/MTc5LjYwLjc4LjI1/44_.m3u8?token=Vd0R5ldBmSo3o0f3qkO77g&expires=1778576944
-
-#EXTINF:-1 tvg-id="47" tvg-name="History Latam 1", History Latam 1
-https://regionales.saohgdasregions.fun:9092/MTc5LjYwLjc4LjI1/44_.m3u8?token=Vd0R5ldBmSo3o0f3qkO77g&expires=1778576944
-
-#EXTINF:-1 tvg-id="48" tvg-name="History Latam 2", History Latam 2
-https://regionales.saohgdasregions.fun:9092/MTc5LjYwLjc4LjI1/45_.m3u8?token=nA9tTl7HTQY4D75YjsDxnA&expires=1778577156
-
-#EXTINF:-1 tvg-id="49" tvg-name="H&H", H&H
-https://regionales.saohgdasregions.fun:9092/MTc5LjYwLjc4LjI1/42_.m3u8?token=SqPPrFM4-ET_YWlel7gBwA&expires=1778577274
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ANIME" tvg-logo="https://i.postimg.cc/FKvmRmJm/247-anime-peliculas.png" group-title="ANIME 24/7",24/7 PELICULAS ANIME
+http://tvchile.org:2082/34234783/47453627/511647
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DEMON SLAYER: KIMETSU NO YAIBA" tvg-logo="https://i.postimg.cc/mDwtVCbS/kimetsu-no-yaiba.png" group-title="ANIME 24/7",24/7 DEMON SLAYER: KIMETSU NO YAIBA
+http://tvchile.org:2082/34234783/47453627/513221
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" tvg-logo="https://www.pngall.com/wp-content/uploads/3/Stranger-Things-Logo-PNG-Clipart.png" group-title="CIENCIA FICCION 24/7",24/7 Stranger Things
+http://tvchile.org:2082/34234783/47453627/149685
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Narrador de Cuentos" tvg-logo="https://media.aweita.larepublica.pe/678x508/aweita/imagen/2018/02/08/noticia-960s_0.jpg" group-title="CIENCIA FICCION 24/7",24/7 El Narrador de Cuentos
+http://tvchile.org:2082/34234783/47453627/149686
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Xena La Princesa Guerrera SD" tvg-logo="https://cd.cinescape.com.pe/cinescape-394x219-199978.jpg" group-title="CIENCIA FICCION 24/7",24/7 Xena La Princesa Guerrera SD
+http://tvchile.org:2082/34234783/47453627/149687
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hercules Los Viajes Legendarios SD" tvg-logo="s:1:/images/NxTjeg7Ulq1q7Kyl_x767LjbVD7btaH712uDdJTa2QzO3IMtokTlBmz3-0RL4zH6qjyryxbd3GzsF_Ia1er-r5ZTPhmiPV_aGpWKietYx5g.png" group-title="CIENCIA FICCION 24/7",24/7 Hercules Los Viajes Legendarios SD
+http://tvchile.org:2082/34234783/47453627/149688
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Automan" tvg-logo="s:1:/images/-7oKEATgI6CdWxwKW-B7iw7jb3f8Pze_UmdiOfr_I7oHhYRH6MMYgAL7zMITricrRm6hCzvxBVwFtXukIZvj3mKQtYLxS8E-KLk1lpR7Nss.jpg" group-title="CIENCIA FICCION 24/7",24/7 Automan
+http://tvchile.org:2082/34234783/47453627/149689
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Isla Misteriosa" tvg-logo="https://es.rodexo.com/wp-content/uploads/2018/05/7780855d41855e8d333acfe9e5b249ca.jpg" group-title="CIENCIA FICCION 24/7",24/7 La Isla Misteriosa
+http://tvchile.org:2082/34234783/47453627/149690
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Liveman" tvg-logo="s:1:/images/plqbglM8JxBMPAASwLwS2iaV4EXeTz7jgA3rW-YYi0naw4II0lt4cFfCwhzHQ9jbGc5hxHLfFUKJsd9TBGPlaYg24pmoL-5Rs6Bg6CkaY2p9DOY4nVgB4JMsMNcG6vjK.jpg" group-title="CIENCIA FICCION 24/7",24/7 Liveman
+http://tvchile.org:2082/34234783/47453627/149691
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Expedientes X SD" tvg-logo="" group-title="CIENCIA FICCION 24/7",24/7 Expedientes X SD
+http://tvchile.org:2082/34234783/47453627/149693
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Expedientes X HD" tvg-logo="" group-title="CIENCIA FICCION 24/7",24/7 Expedientes X HD
+http://tvchile.org:2082/34234783/47453627/149694
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Narrador de Cuentos HD" tvg-logo="s:1:/images/Kud-MfM2eaupVhjC67q4j1YtxnxIIA0M6P0SeIwu8-fY8bysT3BfL2oogguAhv8CdRgawH0nmnLSTzeGcTH-aachIGKhWrTLc8x8Gyi3zVY.jpg" group-title="CIENCIA FICCION 24/7",24/7 El Narrador de Cuentos HD
+http://tvchile.org:2082/34234783/47453627/149695
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Highlander SD" tvg-logo="" group-title="CIENCIA FICCION 24/7",24/7 Highlander SD
+http://tvchile.org:2082/34234783/47453627/149696
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers 01 Mighty Morphin" tvg-logo="" group-title="CIENCIA FICCION 24/7",24/7 Power Rangers 01 Mighty Morphin
+http://tvchile.org:2082/34234783/47453627/149697
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers 02 Mighty Morphin" tvg-logo="" group-title="CIENCIA FICCION 24/7",24/7 Power Rangers 02 Mighty Morphin
+http://tvchile.org:2082/34234783/47453627/149698
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tierra de Gigantes" tvg-logo="" group-title="CIENCIA FICCION 24/7",24/7 Tierra de Gigantes
+http://tvchile.org:2082/34234783/47453627/149699
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Túnel del Tiempo" tvg-logo="" group-title="CIENCIA FICCION 24/7",24/7 El Túnel del Tiempo
+http://tvchile.org:2082/34234783/47453627/149700
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Historias de Fantasmas SD" tvg-logo="" group-title="TERROR 24/7",24/7 Historias de Fantasmas SD
+http://tvchile.org:2082/34234783/47453627/149701
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Oxlack Investigador Paranormal" tvg-logo="s:1:/images/_PFPECAfduyBrBSxQu9ZP-VAP0Q9U8-QsR3xdgAwTmj172TyzXAoymcBK1SXmGBvA41GBUd2K38SLq3zIOE3hA.jpg" group-title="TERROR 24/7",24/7 Oxlack Investigador Paranormal
+http://tvchile.org:2082/34234783/47453627/149702
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Contacto Extranormal" tvg-logo="s:1:/images/_PFPECAfduyBrBSxQu9ZP3VqUM8my6gxxejBZ_7Cht97d0kL6GgTfHtXURi3skLFTc1MWb4h0famUzh6WqbWqQ.jpg" group-title="TERROR 24/7",24/7 Contacto Extranormal
+http://tvchile.org:2082/34234783/47453627/149703
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Historias de Ultratumba" tvg-logo="https://i.postimg.cc/gj05YPNf/historias-de-ultratumba.jpg" group-title="TERROR 24/7",24/7 Historias de Ultratumba
+http://tvchile.org:2082/34234783/47453627/149704
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo que la gente cuenta SD" tvg-logo="" group-title="TERROR 24/7",24/7 Lo que la gente cuenta SD
+http://tvchile.org:2082/34234783/47453627/149705
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo que la gente cuenta HD" tvg-logo="" group-title="TERROR 24/7",24/7 Lo que la gente cuenta HD
+http://tvchile.org:2082/34234783/47453627/149706
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DON GATO Y SU PANDILLA" tvg-logo="https://i.postimg.cc/bN1Q2JRR/don-gato-y-su-pandilla.png" group-title="24/7 ANIMADOS",24/7 DON GATO Y SU PANDILLA
+http://tvchile.org:2082/34234783/47453627/564602
+#EXTINF:-1 tvg-id="" tvg-name="24/7 OYE ARNOLD" tvg-logo="https://i.postimg.cc/c4YPk46r/oye-arnold.png" group-title="24/7 ANIMADOS",24/7 OYE ARNOLD
+http://tvchile.org:2082/34234783/47453627/564605
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BABY LOONEY TUNES" tvg-logo="https://i.postimg.cc/FRNQvxCY/baby-looney-tunes.png" group-title="24/7 ANIMADOS",24/7 BABY LOONEY TUNES
+http://tvchile.org:2082/34234783/47453627/564617
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro" tvg-logo="https://i.postimg.cc/h43ZKrff/pinky-y-cerebro.png" group-title="24/7 ANIMADOS",24/7 Pinky y Cerebro
+http://tvchile.org:2082/34234783/47453627/564620
+#EXTINF:-1 tvg-id="" tvg-name="24/7  FUTURAMA" tvg-logo="https://i.postimg.cc/J04Dst31/futurama.png" group-title="24/7 ANIMADOS",24/7  FUTURAMA
+http://tvchile.org:2082/34234783/47453627/564641
+#EXTINF:-1 tvg-id="" tvg-name="24/7 101 DALMATAS" tvg-logo="https://i.postimg.cc/8CfMBFrw/101-dalmatas.png" group-title="24/7 ANIMADOS",24/7 101 DALMATAS
+http://tvchile.org:2082/34234783/47453627/564644
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SCOOBY DOO MISTERIOS S.A" tvg-logo="https://i.postimg.cc/QCnLwzFD/scooby-doo-misterios-sa.png" group-title="24/7 ANIMADOS",24/7 SCOOBY DOO MISTERIOS S.A
+http://tvchile.org:2082/34234783/47453627/495972
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSON TEMPORADA 1 A LA 9" tvg-logo="https://i.postimg.cc/wT1KVNwr/los-simsons.png" group-title="24/7 ANIMADOS",24/7 LOS SIMPSON TEMPORADA 1 A LA 9
+http://tvchile.org:2082/34234783/47453627/501892
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSON TEMPORADA 10 A LA 18" tvg-logo="https://i.postimg.cc/wT1KVNwr/los-simsons.png" group-title="24/7 ANIMADOS",24/7 LOS SIMPSON TEMPORADA 10 A LA 18
+http://tvchile.org:2082/34234783/47453627/501893
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSON TEMPORADA 19 A LA 27" tvg-logo="http://i.postimg.cc/wT1KVNwr/los-simsons.png" group-title="24/7 ANIMADOS",24/7 LOS SIMPSON TEMPORADA 19 A LA 27
+http://tvchile.org:2082/34234783/47453627/501894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS SIMPSON TEMPORADA 28 A LA 37" tvg-logo="https://i.postimg.cc/wT1KVNwr/los-simsons.png" group-title="24/7 ANIMADOS",24/7 LOS SIMPSON TEMPORADA 28 A LA 37
+http://tvchile.org:2082/34234783/47453627/501895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Inuyasha" tvg-logo="https://i.postimg.cc/MT67VNKp/inuyasha.png" group-title="ANIME 24/7",24/7 Inuyasha
+http://tvchile.org:2082/34234783/47453627/617554
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech" tvg-logo="https://i.postimg.cc/8c02jg3q/robotech.png" group-title="ANIME 24/7",24/7 Robotech
+http://tvchile.org:2082/34234783/47453627/564569
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Peliculas" tvg-logo="https://i.postimg.cc/RVqGvDmx/dragon-ball-peliculas.png" group-title="ANIME 24/7",24/7 Dragon Ball Peliculas
+http://tvchile.org:2082/34234783/47453627/564433
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon (001-046)" tvg-logo="https://i.postimg.cc/d0LGjmZG/sailor-moon.png" group-title="ANIME 24/7",24/7 Sailor Moon (001-046)
+http://tvchile.org:2082/34234783/47453627/149413
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Torneo Galactico (1-40)" tvg-logo="https://i.postimg.cc/QMbvcD5F/caballeros-del-zodiaco.png" group-title="ANIME 24/7",24/7 Saint Seiya Torneo Galactico (1-40)
+http://tvchile.org:2082/34234783/47453627/149423
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Las 12 Casas (41-73)" tvg-logo="https://i.postimg.cc/QMbvcD5F/caballeros-del-zodiaco.png" group-title="ANIME 24/7",24/7 Saint Seiya Las 12 Casas (41-73)
+http://tvchile.org:2082/34234783/47453627/149424
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Asgard (74-99)" tvg-logo="https://i.postimg.cc/QMbvcD5F/caballeros-del-zodiaco.png" group-title="ANIME 24/7",24/7 Saint Seiya Asgard (74-99)
+http://tvchile.org:2082/34234783/47453627/149425
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Poseidon (100-114)" tvg-logo="https://i.postimg.cc/QMbvcD5F/caballeros-del-zodiaco.png" group-title="ANIME 24/7",24/7 Saint Seiya Poseidon (100-114)
+http://tvchile.org:2082/34234783/47453627/149426
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Hades (115-145)" tvg-logo="https://i.postimg.cc/QMbvcD5F/caballeros-del-zodiaco.png" group-title="ANIME 24/7",24/7 Saint Seiya Hades (115-145)
+http://tvchile.org:2082/34234783/47453627/149427
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los Titanes SUB" tvg-logo="https://i.postimg.cc/bNRbcY7C/ataque-a-los-titanes.png" group-title="ANIME 24/7",24/7 Ataque a los Titanes SUB
+http://tvchile.org:2082/34234783/47453627/149491
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon R (047-089)" tvg-logo="https://i.postimg.cc/d0LGjmZG/sailor-moon.png" group-title="ANIME 24/7",24/7 Sailor Moon R (047-089)
+http://tvchile.org:2082/34234783/47453627/149521
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon S (090-127)" tvg-logo="https://i.postimg.cc/d0LGjmZG/sailor-moon.png" group-title="ANIME 24/7",24/7 Sailor Moon S (090-127)
+http://tvchile.org:2082/34234783/47453627/149522
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon SuperS (128-166)" tvg-logo="https://i.postimg.cc/d0LGjmZG/sailor-moon.png" group-title="ANIME 24/7",24/7 Sailor Moon SuperS (128-166)
+http://tvchile.org:2082/34234783/47453627/149523
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon Sailor Stars (167-200)" tvg-logo="https://i.postimg.cc/d0LGjmZG/sailor-moon.png" group-title="ANIME 24/7",24/7 Sailor Moon Sailor Stars (167-200)
+http://tvchile.org:2082/34234783/47453627/149524
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ataque a los Titanes SD" tvg-logo="https://i.postimg.cc/bNRbcY7C/ataque-a-los-titanes.png" group-title="ANIME 24/7",24/7 Ataque a los Titanes SD
+http://tvchile.org:2082/34234783/47453627/149548
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball" tvg-logo="https://i.postimg.cc/ncjTnxhv/dragon-ball.png" group-title="ANIME 24/7",24/7 Dragon Ball
+http://tvchile.org:2082/34234783/47453627/445894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT" tvg-logo="https://i.postimg.cc/VNJms52Y/dragon-ball-gt.png" group-title="ANIME 24/7",24/7 Dragon Ball GT
+http://tvchile.org:2082/34234783/47453627/446590
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Saga Saiyajin" tvg-logo="https://i.postimg.cc/4d4y1XSq/dragon-ball-saga-sayayin.png" group-title="ANIME 24/7",24/7 Dragon Ball Z Saga Saiyajin
+http://tvchile.org:2082/34234783/47453627/447175
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Saga de Freezer" tvg-logo="https://i.postimg.cc/KvcXvRgd/dragon-ball-z-saga-freezer.png" group-title="ANIME 24/7",24/7 Dragon Ball Z Saga de Freezer
+http://tvchile.org:2082/34234783/47453627/447326
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Saga de Garlic Jr." tvg-logo="https://i.postimg.cc/3JbL5B5b/dragon-ball-z-garlick-jr.png" group-title="ANIME 24/7",24/7 Dragon Ball Z Saga de Garlic Jr.
+http://tvchile.org:2082/34234783/47453627/447327
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Saga De Los Androides" tvg-logo="https://i.postimg.cc/kXpySW-XV/dragon-ball-z-saga-androides.png" group-title="ANIME 24/7",24/7 Dragon Ball Z Saga De Los Androides
+http://tvchile.org:2082/34234783/47453627/447328
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Saga de Cell" tvg-logo="https://i.postimg.cc/CxfcFgJ3/dragon-ball-z-saga-cell.png" group-title="ANIME 24/7",24/7 Dragon Ball Z Saga de Cell
+http://tvchile.org:2082/34234783/47453627/447329
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z Saga de Majin Boo" tvg-logo="https://i.postimg.cc/N0DmtCqh/dragon-ball-z-saga-majin-boo.png" group-title="ANIME 24/7",24/7 Dragon Ball Z Saga de Majin Boo
+http://tvchile.org:2082/34234783/47453627/447330
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL SUPER" tvg-logo="https://i.postimg.cc/8zp8G1BD/dragon-ball-super-saga-torneo-del-poder.png" group-title="ANIME 24/7",24/7 DRAGON BALL SUPER
+http://tvchile.org:2082/34234783/47453627/513047
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL DAIMA" tvg-logo="https://i.postimg.cc/4yv6yz1Y/dragon-ball-daima.png" group-title="ANIME 24/7",24/7 DRAGON BALL DAIMA
+http://tvchile.org:2082/34234783/47453627/500212
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones" tvg-logo="https://i.postimg.cc/yNCSq4Km/super-campeones.png" group-title="ANIME 24/7",24/7 Super Campeones
+http://tvchile.org:2082/34234783/47453627/447733
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon, Atrapalos Ya Temporada 1" tvg-logo="https://i.postimg.cc/sD0Dx6Ns/pokemon-atrapalos-ya.jpg" group-title="ANIME 24/7",24/7 Pokemon, Atrapalos Ya Temporada 1
+http://tvchile.org:2082/34234783/47453627/447816
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon, Liga Naranja Temporada 2" tvg-logo="https://i.postimg.cc/SQ8rjFp7/pokemon-liga-naranja-2.png" group-title="ANIME 24/7",24/7 Pokemon, Liga Naranja Temporada 2
+http://tvchile.org:2082/34234783/47453627/447853
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon, Los Viajes Johto Temporada 3" tvg-logo="https://i.postimg.cc/Kv25MqGX/pokemon-los-viajes-jhoto-3.png" group-title="ANIME 24/7",24/7 Pokemon, Los Viajes Johto Temporada 3
+http://tvchile.org:2082/34234783/47453627/447895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon, Los Campeones de la Liga Johto Temporada 4" tvg-logo="https://i.postimg.cc/tCGGMdP9/pokemon-campeones-liga-johto.png" group-title="ANIME 24/7",24/7 Pokemon, Los Campeones de la Liga Johto Temporada 4
+http://tvchile.org:2082/34234783/47453627/447948
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokemon, La Búsqueda del Maestro Temporada 5" tvg-logo="https://i.postimg.cc/v8PBVN6c/43766811-685052331866016-4938186507396579328-n.png" group-title="ANIME 24/7",24/7 Pokemon, La Búsqueda del Maestro Temporada 5
+http://tvchile.org:2082/34234783/47453627/448014
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="https://i.postimg.cc/YSQLRpzz/naruto.png" group-title="ANIME 24/7",24/7 Naruto
+http://tvchile.org:2082/34234783/47453627/448234
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure" tvg-logo="https://i.postimg.cc/bNnmB8BP/digimon-1.png" group-title="ANIME 24/7",24/7 Digimon Adventure
+http://tvchile.org:2082/34234783/47453627/451359
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure 2" tvg-logo="https://i.postimg.cc/wBvpY7NZ/digimon-2.png" group-title="ANIME 24/7",24/7 Digimon Adventure 2
+http://tvchile.org:2082/34234783/47453627/451410
