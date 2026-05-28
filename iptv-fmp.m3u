@@ -138,3 +138,6 @@ http://intelcarlos.xyz:8080/series/Josedeschamps2331/PtbHfXX/505423.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Antz (Hormigaz) (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFDqymFtThCysdUsCywYD8wj7nf.jpg" group-title="DISNEY",Antz (Hormigaz) (1998)
 http://intelcarlos.xyz:8080/movie/Josedeschamps2331/PtbHfXX/736399.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Amelie (2001)" tvg-logo="https://image.tmdb.org/t/p/w500/hQUWX6ddZucA3FZ1hmC4nUV77YS.jpg" group-title="VARIADAS 1",Amelie (2001)
+http://intelcarlos.xyz:8080/movie/Josedeschamps2331/PtbHfXX/741087.mp4
