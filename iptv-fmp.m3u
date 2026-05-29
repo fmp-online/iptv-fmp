@@ -64,7 +64,9 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
 #EXTINF:-1 tvg-id"" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="TV Cable", K-POP HD
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
-#EXTINF:-1 tvg="" tvg-logo="https://i.postimg.cc/Vk1L3YMK/a-ST01.jpg" group-title="CANALES PREMIUM HD" group-title="TV Cable", ANIME STATION 01 HD
+#EXTINF:-1 tvg="" tvg-name="ETC tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/ETC...TV_1996.svg/revision/latest?cb=20180503012824" group-title="TV Cable", ETC tv
+http://starlatino.tv:8880/live/CCAICEDO12/YkXeQjuJbRQc/273684.ts
+#EXTINF:-1 tvg="" tvg-logo="https://i.postimg.cc/Vk1L3YMK/a-ST01.jpg" group-title="TV Cable", ANIME STATION
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="TV Cable", EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
