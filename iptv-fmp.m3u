@@ -152,8 +152,11 @@ http://intelcarlos.xyz:8080/movie/Josedeschamps2331/PtbHfXX/736399.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Amelie (2001)" tvg-logo="https://image.tmdb.org/t/p/w500/hQUWX6ddZucA3FZ1hmC4nUV77YS.jpg" group-title="VARIADAS 1",Amelie (2001)
 http://intelcarlos.xyz:8080/movie/Josedeschamps2331/PtbHfXX/741087.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="youtube" tvg-logo="https://image.tmdb.org/t/p/w500/hQUWX6ddZucA3FZ1hmC4nUV77YS.jpg" group-title="youtube", youtube
-https://www.youtube.com/watch?v=qoZLkYRvnvk&t=1756s
-
-#EXTINF:-1 tvg-id="" tvg-name="plex" tvg-logo="https://image.tmdb.org/t/p/w500/hQUWX6ddZucA3FZ1hmC4nUV77YS.jpg" group-title="plex", plex
-https://vod-content.plexvideos.com/streams/66462cd435493928620618a0/af827175-d9cc-4abf-9966-1fee216d4eac/video_3249_4/video_init.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de en Medio: La vida sigue siendo injusta S01 E01" tvg-logo="http://redworld.pro:8880/images/54dc90fa06cb8064b67b6b6c76ba7b2a.jpg" group-title="⭐️ Series Disney ",Malcolm el de en Medio: La vida sigue siendo injusta S01 E01
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de en Medio: La vida sigue siendo injusta S01 E02" tvg-logo="http://redworld.pro:8880/images/3c219ec5ea847e0b69af20a75cfada03.jpg" group-title="⭐️ Series Disney ",Malcolm el de en Medio: La vida sigue siendo injusta S01 E02
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de en Medio: La vida sigue siendo injusta S01 E03" tvg-logo="http://redworld.pro:8880/images/9ce0ae87713d0260a4f98b4369ee6704.jpg" group-title="⭐️ Series Disney ",Malcolm el de en Medio: La vida sigue siendo injusta S01 E03
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de en Medio: La vida sigue siendo injusta S01 E04" tvg-logo="http://redworld.pro:8880/images/f67c918a50cdd50e6b844f5489b7043b.jpg" group-title="⭐️ Series Disney ",Malcolm el de en Medio: La vida sigue siendo injusta S01 E04
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522772.mp4
