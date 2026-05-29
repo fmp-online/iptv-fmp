@@ -1,53 +1,63 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="Radio Lampa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DDPcM8XdFr_2G0_ITKGHtzO49YHFLMgOoA&s" group-title="Radio Chile", Radio Lampa
 https://videostream.chileservidores.com:8081/lampa1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="TV Chile", Canal 13 ? group
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="TV Chile", Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="TV Chile" group-title="TV Chile", CHV ? group
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="TV Chile" group-title="TV Chile", CHV
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="TV Chile" group-title="TV Chile", Mega ? group
+#EXTINF:-1 tvg-id="" tvg-name="Radio Lampa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DDPcM8XdFr_2G0_ITKGHtzO49YHFLMgOoA&s" group-title="Radio Chile", Radio Lampa
+https://videostream.chileservidores.com:8081/lampa1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="TV Chile", Canal 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="TV Chile" group-title="TV Chile", CHV
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="TV Chile" group-title="TV Chile", Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="TV Chile", TVN ? group
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="TV Chile", TVN
 http://217.26.190.76:8888/play/a0m6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UCV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisión_(2018).png" group-title="TV Chile" , UCV TV (1) [CL]
+#EXTINF:-1 tvg-id="" tvg-name="UCV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisión_(2018).png" group-title="TV Chile" , UCV TV 
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="TV Chile", La Red ? group
+#EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="TV Chile", La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="TV Chile", TV+ ? group
+#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="TV Chile", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="TV Chile" group-title="TV Chile", TV Chile ? group
+#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="TV Chile" group-title="TV Chile", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="TV Chile", NTV ? group
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="TV Chile", NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="TV Chile", 13 Cultura group
+#EXTINF:-1 tvg-id="" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="TV Chile", 13 Cultura
 https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="TV Chile", 13 Cocina group
+#EXTINF:-1 tvg-id="" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="TV Chile", 13 Cocina
 https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="TV Chile", 13 Pop group
+#EXTINF:-1 tvg-id="" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="TV Chile", 13 Pop
 https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="TV Chile", 13 Teleseries group
+#EXTINF:-1 tvg-id="" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="TV Chile", 13 Teleseries
 https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="TV Chile", 13 Festival group
+#EXTINF:-1 tvg-id="" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="TV Chile", 13 Festival
 https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="TV Chile", 13 Realities group
+#EXTINF:-1 tvg-id="" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="TV Chile", 13 Realities
 https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="TV Chile", 13 Viajes group
+#EXTINF:-1 tvg-id="" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="TV Chile", 13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="TV Chile", T13 Radio ? group
+#EXTINF:-1 tvg-id="" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="TV Chile", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CHV Noticias" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" group-title="TV Chile", CHV Noticias ? group
+#EXTINF:-1 tvg-id="" tvg-name="CHV Noticias" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" group-title="TV Chile", CHV Noticias
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1763_CHV_Deportes.png" group-title="TV Chile", CHV Deportes ? group
+#EXTINF:-1 tvg-id="" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1763_CHV_Deportes.png" group-title="TV Chile", CHV Deportes
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="TV Chile", 24 Horas ? group
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="TV Chile", 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="TV Chile", TVN3 ? group
+#EXTINF:-1 tvg-id="" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="TV Chile", TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="UCV TV Eventos" tvg-logo="" group-title="general" group-title="TV Chile", UCV TV Eventos (1) [CL]
+#EXTINF:-1 tvg-id="" tvg-name="UCV TV Eventos" tvg-logo="" group-title="TV Chile", UCV TV 
 https://pantera1-100gb-cl-movistar.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleCauquenes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9o-uAsKMrzeAtBp3LtYP0XTmA6BmVuiP_iA&s" group-title="TV Chile", Telecauquenes
+https://live-hls2.mundogo.cl/telecauquenes/telecauquenes.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2MKRLkC/DW-EN-VIVO-SD.jpg" group-title="TV Cable", DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGM TV" tvg-logo="https://cdn.m3u.cl/logo/1022_EGM_TV.png" group-title="TV Cable", EGM TV group
+#EXTINF:-1 tvg-id="" tvg-name="EGM TV" tvg-logo="https://cdn.m3u.cl/logo/1022_EGM_TV.png" group-title="TV Cable", EGM TV
 https://vdochile.com:3922/live/egm20live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment" group-title="TV Cable", Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
@@ -56,50 +66,50 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg="" tvg-logo="https://i.postimg.cc/Vk1L3YMK/a-ST01.jpg" group-title="CANALES PREMIUM HD" group-title="TV Cable", ANIME STATION 01 HD
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="TV Cable", EnerGeek FAN ? group
+#EXTINF:-1 tvg-id="" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="TV Cable", EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="TV Cable", EnerGeek Retro ? group
+#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="TV Cable", EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="TV Cable", EnerGeek Radio ? group
+#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="TV Cable", EnerGeek Radio
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Capitan Tsubasa" tvg-logo="https://w7.pngwing.com/pngs/726/876/png-transparent-tsubasa-oozora-captain-tsubasa-road-to-2002-anime-others-television-manga-team-thumbnail.png" group-title="TV Cable", Capitan Tsubasa
 https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00658-canelamediafast-channela-canelatvinternational/cb7d3e167b716fdd9cca3f6c84f040a3d10e6385513ad6616aa25e9275c51d5382e9a596e71fbe6e0dbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e0594dc66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f895d30e82989171bd54b0360d0e272dcdcd2cc49e09fb8bcb6f68d1702c1e1818bef1caab4d38d4431a0cada791cf0f971ac8881a957927be72fc25e61eab31e763c4e547a4dffdb506126ff3945d6224a2a8f68cff607ee960fff3a4df702c9abb472a419c6f89722a68c0ad9e4efda97f97a633bab67c133ccc9437f0f7db80eebe88469d6bded1aef35721426e1070e237c0b44c8156b712bddd2c314e4452ac994cb6f7b3313e77438abf4bc72c0babd29d82dc1761bf0a765bf870e6481163de315369f7218bfe560ea70750f25f52ff5d238941f98720f4a9dcf0073cb0aca3289d6afcef60b89506a7794e3a68d2a276332f297edffe760c421aa924b589a48b1500039e9fa798e9721a5674406034e1928fda2503a1537f35ed1143437c191b9376ae03bd336870e04d83b1d664478a133525a6863258486595c9cbe1cdb69802dd7ba27ae5b0696a81431d4a04745b83fc44685d723b5f775892066742f2345b4cfe9cc8e296bac9aff6798737781d6fc9f158144702332b3d929e6cd849f1d3338ddb9b0c82bfd652728c32f5554bdec88a38b1ada0d75f03959d521b4c9ec76890207a8944826bc0f958ec9d794a5c304943c7ce73fa5cb2d0d38708923ea2420631bb2ce3d2b3fd862806a7a24b35321b5c582a0121625fee9af0600734bde87fa80da8bb1bf93021595570d78c045191fb374dcc47194e91e09adbe39a795fa007d97cca720cb5580b3a93a515e380a0fce98869407ab793af4bbee1c5c1fbdfc422711c7f72fce55a467ccc29e08665b4fdfd1d1f102055bc3e7e32d7f00a28803c3001372fc3ab24/50/1280x720_3849560/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="TV Cable", Retro Plus TV ? group
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="TV Cable", Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="TV Cable", Retro Plus TV Señal 2 ? group
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="TV Cable", Retro Plus TV Señal 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="TV Cable", Retro Plus TV Señal 3 ? group
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="TV Cable", Retro Plus TV Señal 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id "" tvg-name="Clásico Mexicanos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlkqOvHKIx3aYzIpKd8ulwO2DbTMxdZOipkQ&s" group-title="TV Cable",  Clásico Mexicanos
 https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/cb7d3e167b716fdd9cca3f6c84f040a3d10e6385513ad6616aa25e9275c51d5382e9a596e71fbe6e0dbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e0594dc66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f895d30e82989171bd5eb76c5059272e9bcd2cc49e0efb8bcb6f68d1297e421c18e4f595a8486dd541120ea8ad91cf0f971ac8881a957927be72fc25e61eab31e763c4e547a4dffdb506126ff3945d6224a2a8f68cff607ee960fff3a4df702c9abb472a419c6f89722a68c0ad9e4eeaa9779fb551edde0f3419e2c008ccc7d8e98cb4835eee46a0a6a4c2442824621412b95fb79469d72caf13c2a71020524848acd441d2dca6345a775cb9904cdd051abac2f9f2b56135df6c1765fd73e64b1765da356f65bf4193ff3f6399360bf756579a086feb289fb421e1d5bf8f64159484b228926effa535c1e20dbb68034c10bf80483527625c8a990c62347cd54ce7d6f5ed760707f9f6cafbb23752653c046034e1928fda2503a1537f35ed1143437c191b9376ae03bd336870e04d83b1d664478a133525a6863258486595c9cbe1cdb69802dd7ba27ae5b0696a81431d4a04745b83fc44685d723b5f775892066742f2345b4cfe9cc8e296bac9aff6798737781d6fc9f158144702332b3d929e6cd849f1d3338ddb9b0c82bfd652728c32f5554bdec88a38b1ada0d75f03959d521b4c9ec76890207a8944826bc0f958ec9d794a5c304943c7ce73fa5cb2d0d38708923ea2420631bb2ce3d2b3fd862806a7a24b35321b5c582a0121625fee9af0600734bde87fa80da8bb1bf93021595570d78c045191fb374dcc47194e91e09adbe39a795fa007d97cca720cb5580b3a93a515e380a0fce98869407ab793af4bbee1c5c1fbdfc422711c7f72fce55a467ccc29e08665b4f9fd1d071e2055bc465ee375483658e83292e255120337cd/54/1280x720_3849560/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="Radio", VClassicTV ? group
+#EXTINF:-1 tvg-id="" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="Radio", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="Radio", VClassicTV Tropical ? group
+#EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="Radio", VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Radio", Recuerdos Retro Radio TV ? group
+#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Radio", Recuerdos Retro Radio TV
 
-#EXTINF:-1 tvg-id="" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="Radio", Pauta TV group
+#EXTINF:-1 tvg-id="" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="Radio", Pauta TV
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png" group-title="Radio", Radio Infinita group
+#EXTINF:-1 tvg-id="" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png" group-title="Radio", Radio Infinita
 https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="Radio", Radio Agricultura group
+#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="Radio", Radio Agricultura
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="Radio", Radio Agricultura 2 group
+#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="Radio", Radio Agricultura 2
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Radio Duna" tvg-logo="https://cdn.m3u.cl/logo/427_Radio_Duna.png" group-title="Radio", Radio Duna group
+#EXTINF:-1 tvg-id="" tvg-name="Radio Duna" tvg-logo="https://cdn.m3u.cl/logo/427_Radio_Duna.png" group-title="Radio", Radio Duna
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Pudahuel FM" tvg-logo="https://cdn.m3u.cl/logo/429_Pudahuel_FM.png" group-title="Radio", Pudahuel FM group
+#EXTINF:-1 tvg-id="" tvg-name="Pudahuel FM" tvg-logo="https://cdn.m3u.cl/logo/429_Pudahuel_FM.png" group-title="Radio", Pudahuel FM
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Cooperativa" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" group-title="Radio", Cooperativa group
+#EXTINF:-1 tvg-id="" tvg-name="Cooperativa" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" group-title="Radio", Cooperativa
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="La Clave" tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png" group-title="Radio", La Clave group
+#EXTINF:-1 tvg-id="" tvg-name="La Clave" tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png" group-title="Radio", La Clave
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="Radio", El Conquistador Santiago group
+#EXTINF:-1 tvg-id="" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="Radio", El Conquistador Santiago
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="Radio", La Metro group
+#EXTINF:-1 tvg-id="" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="Radio", La Metro
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png" group-title="Radio", Radioactiva TV group
+#EXTINF:-1 tvg-id="" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png" group-title="Radio", Radioactiva TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | PEDRO INFANTE" tvg-logo="https://cdn.shopify.com/s/files/1/0267/4661/7902/products/ScreenShot2021-03-22at6.14.28PM_300x300.png?v=1616458584" group-title="24/7", 24/7 | PEDRO INFANTE
