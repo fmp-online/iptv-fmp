@@ -4,15 +4,15 @@
 https://videostream.chileservidores.com:8081/lampa1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="TV Chile", Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="TV Chile" group-title="TV Chile", CHV
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="TV Chile", CHV
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Radio Lampa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DDPcM8XdFr_2G0_ITKGHtzO49YHFLMgOoA&s" group-title="Radio Chile", Radio Lampa
 https://videostream.chileservidores.com:8081/lampa1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="TV Chile", Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="TV Chile" group-title="TV Chile", CHV
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="TV Chile", CHV
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="TV Chile" group-title="TV Chile", Mega
+#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="TV Chile", Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="TV Chile", TVN
 http://217.26.190.76:8888/play/a0m6/index.m3u8
@@ -22,7 +22,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="TV Chile", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="TV Chile" group-title="TV Chile", TV Chile
+#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="TV Chile", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="TV Chile", NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
@@ -59,7 +59,7 @@ https://live-hls2.mundogo.cl/telecauquenes/telecauquenes.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EGM TV" tvg-logo="https://cdn.m3u.cl/logo/1022_EGM_TV.png" group-title="TV Cable", EGM TV
 https://vdochile.com:3922/live/egm20live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entertainment" group-title="TV Cable", Historia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="TV Cable", Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
 #EXTINF:-1 tvg-id"" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="TV Cable", K-POP HD
@@ -114,6 +114,8 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-id="" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png" group-title="Radio", Radioactiva TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
 
+#24/7---------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | PEDRO INFANTE" tvg-logo="https://cdn.shopify.com/s/files/1/0267/4661/7902/products/ScreenShot2021-03-22at6.14.28PM_300x300.png?v=1616458584" group-title="24/7", 24/7 | PEDRO INFANTE
 http://soporte-visual2.com:8080/live/NIMUH@3m3@/qheXtAN/797146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | DIGIMON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7" ,24/7 | DIGIMON
@@ -128,20 +130,22 @@ http://futurateve.net:80/loreto57990017/colsieconi/46121.ts
 http://futurateve.net:80/loreto57990017/colsieconi/428566.ts
 #EXTINF:-1 tvg-id="" tvg-name="Los caballeros del zodiaco 24/7" tvg-logo="http://playlis10.online:8080/images/8db7e1d3fc82612a431d526e98ede7f0.jpg" group-title="24/7",Los caballeros del zodiaco 24/7
 http://futurateve.net:80/loreto57990017/colsieconi/428557.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los super campeones" tvg-logo="http://playlis10.online:8080/images/876c3078bff8bfa7b6aeae19537c8506.jpg" group-title="24/7 - TEMPORAL",24/7 | Los super campeones
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los super campeones" tvg-logo="http://playlis10.online:8080/images/876c3078bff8bfa7b6aeae19537c8506.jpg" group-title="24/7",24/7 | Los super campeones
 http://futurateve.net:80/loreto57990017/colsieconi/428550.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Pajaro Loco" tvg-logo="https://i.pinimg.com/originals/c5/20/b5/c520b5af14357c416470750c22f58cb7.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 | El Pajaro Loco
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Pajaro Loco" tvg-logo="https://i.pinimg.com/originals/c5/20/b5/c520b5af14357c416470750c22f58cb7.jpg" group-title="24/7",24/7 | El Pajaro Loco
 http://futurateve.net:80/loreto57990017/colsieconi/428544.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | One Punch Man" tvg-logo="https://i.pinimg.com/564x/38/6a/42/386a42c0ac0548d7d64dd0b2543bfd6c.jpg" group-title="24/7 - TEMPORAL",24/7 | One Punch Man
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | One Punch Man" tvg-logo="https://i.pinimg.com/564x/38/6a/42/386a42c0ac0548d7d64dd0b2543bfd6c.jpg" group-title="24/7",24/7 | One Punch Man
 http://futurateve.net:80/loreto57990017/colsieconi/428539.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Danny Phantom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLf77qFk54GQcmwSsox6g9JmQHu.jpg" group-title="24/7 - TEMPORAL",24/7 Danny Phantom
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Danny Phantom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLf77qFk54GQcmwSsox6g9JmQHu.jpg" group-title="24/7",24/7 Danny Phantom
 http://futurateve.net:80/loreto57990017/colsieconi/428535.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La máscara" tvg-logo="https://i.imgur.com/2fI3Xz0.jpg" group-title="24/7 - TEMPORAL",24/7 La máscara
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La máscara" tvg-logo="https://i.imgur.com/2fI3Xz0.jpg" group-title="24/7",24/7 La máscara
 http://futurateve.net:80/loreto57990017/colsieconi/428534.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La liga de la justicia" tvg-logo="http://playlis10.online:8080/images/a99d753080ac42c8d29d8db0a08496c9.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 La liga de la justicia
 http://futurateve.net:80/loreto57990017/colsieconi/428532.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Street Sharks" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk8PDEgEP1KLcinuhn6RIvWXy9E.jpg" group-title="24/7 - TEMPORAL",24/7 Street Sharks
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Street Sharks" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk8PDEgEP1KLcinuhn6RIvWXy9E.jpg" group-title="24/7",24/7 Street Sharks
 http://futurateve.net:80/loreto57990017/colsieconi/428530.ts
+
+#PELICULAS---------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="Escalofríos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0JWKJol7A3NKPlat8UAnDx18yS.jpg" group-title="NETFLIX",Escalofríos S01 E01
 http://intelcarlos.xyz:8080/series/Josedeschamps2331/PtbHfXX/505423.mkv
@@ -151,6 +155,10 @@ http://intelcarlos.xyz:8080/movie/Josedeschamps2331/PtbHfXX/736399.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Amelie (2001)" tvg-logo="https://image.tmdb.org/t/p/w500/hQUWX6ddZucA3FZ1hmC4nUV77YS.jpg" group-title="VARIADAS 1",Amelie (2001)
 http://intelcarlos.xyz:8080/movie/Josedeschamps2331/PtbHfXX/741087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Interestelar" tvg-logo="https://image.tmdb.org/t/p/w500/hQUWX6ddZucA3FZ1hmC4nUV77YS.jpg" group-title="Pelicula",Interestelar
+https://streamimdb.ru/embed/movie/tt0816692
+
+#SERIES---------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="Malcolm el de en Medio: La vida sigue siendo injusta S01 E01" tvg-logo="http://redworld.pro:8880/images/54dc90fa06cb8064b67b6b6c76ba7b2a.jpg" group-title="⭐️ Series Disney ",Malcolm el de en Medio: La vida sigue siendo injusta S01 E01
 http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522769.mp4
