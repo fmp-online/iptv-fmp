@@ -76,6 +76,8 @@ https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF:-1 tvg="" tvg-name="Magic Kids" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cable_Geek", Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+#EXTINF:-1 tvg="" tvg-name="Memorias Toons" tvg-logo="https://assets.teleon.tv/180_webp/memorias-toons-us.webp" group-title="Cable_Geek", Memorias Toons
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 
 
 ##CABLE_PELICULAS______CABLE-PELICULAS##CABLE_PELICULAS______CABLE-PELICULAS##CABLE_PELICULAS______CABLE-PELICULAS##CABLE_PELICULAS______CABLE-PELICULAS##CABLE_PELICULAS______CABLE-PELICULAS##
