@@ -1,69 +1,62 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Radio Lampa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DDPcM8XdFr_2G0_ITKGHtzO49YHFLMgOoA&s" group-title="Radio Chile", Radio Lampa
-https://videostream.chileservidores.com:8081/lampa1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="TV Chile", Canal 13
+##NACIONAL______NACIONAL##NACIONAL______NACIONAL##NACIONAL______NACIONAL##NACIONAL______NACIONAL##NACIONAL______NACIONAL##
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title=Nacional", Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="TV Chile", CHV
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title=Nacional", CHV
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Radio Lampa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DDPcM8XdFr_2G0_ITKGHtzO49YHFLMgOoA&s" group-title="Radio Chile", Radio Lampa
-https://videostream.chileservidores.com:8081/lampa1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title="TV Chile", Canal 13
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1733_Canal_13.png" group-title=Nacional", Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title="TV Chile", CHV
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV.png" group-title=Nacional", CHV
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="TV Chile", Mega
+#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title=Nacional", Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="TV Chile", TVN
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title=Nacional", TVN
 http://217.26.190.76:8888/play/a0m6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UCV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisión_(2018).png" group-title="TV Chile" , UCV TV 
+#EXTINF:-1 tvg-id="" tvg-name="UCV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisión_(2018).png" group-title=Nacional" , UCV TV 
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="TV Chile", La Red
+#EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title=Nacional", La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="TV Chile", TV+
+#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title=Nacional", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="TV Chile", TV Chile
+#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title=Nacional", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="TV Chile", NTV
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title=Nacional", NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="TV Chile", 13 Cultura
+#EXTINF:-1 tvg-id="" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title=Nacional", 13 Cultura
 https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="TV Chile", 13 Cocina
+#EXTINF:-1 tvg-id="" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title=Nacional", 13 Cocina
 https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="TV Chile", 13 Pop
+#EXTINF:-1 tvg-id="" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title=Nacional", 13 Pop
 https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="TV Chile", 13 Teleseries
+#EXTINF:-1 tvg-id="" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title=Nacional", 13 Teleseries
 https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="TV Chile", 13 Festival
+#EXTINF:-1 tvg-id="" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title=Nacional", 13 Festival
 https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="TV Chile", 13 Realities
+#EXTINF:-1 tvg-id="" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title=Nacional", 13 Realities
 https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="TV Chile", 13 Viajes
+#EXTINF:-1 tvg-id="" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title=Nacional", 13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="TV Chile", T13 Radio
+#EXTINF:-1 tvg-id="" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title=Nacional", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CHV Noticias" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" group-title="TV Chile", CHV Noticias
+#EXTINF:-1 tvg-id="" tvg-name="CHV Noticias" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" group-title=Nacional", CHV Noticias
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1763_CHV_Deportes.png" group-title="TV Chile", CHV Deportes
+#EXTINF:-1 tvg-id="" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1763_CHV_Deportes.png" group-title=Nacional", CHV Deportes
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="TV Chile", 24 Horas
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title=Nacional", 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="TV Chile", TVN 3
+#EXTINF:-1 tvg-id="" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title=Nacional", TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="UCV TV Eventos" tvg-logo="" group-title="TV Chile", UCV TV 
+#EXTINF:-1 tvg-id="" tvg-name="UCV TV Eventos" tvg-logo="" group-title=Nacional", UCV TV 
 https://pantera1-100gb-cl-movistar.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TeleCauquenes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9o-uAsKMrzeAtBp3LtYP0XTmA6BmVuiP_iA&s" group-title="TV Chile", Telecauquenes
+#EXTINF:-1 tvg-id="" tvg-name="TeleCauquenes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9o-uAsKMrzeAtBp3LtYP0XTmA6BmVuiP_iA&s" group-title=Nacional", Telecauquenes
 https://live-hls2.mundogo.cl/telecauquenes/telecauquenes.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2MKRLkC/DW-EN-VIVO-SD.jpg" group-title="TV Cable", DW ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGM TV" tvg-logo="https://cdn.m3u.cl/logo/1022_EGM_TV.png" group-title="TV Cable", EGM TV
-https://vdochile.com:3922/live/egm20live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="TV Cable", Historia
-https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
 
-##ANIME-GEEK______ANIME-GEEK##ANIME-GEEK______ANIME-GEEK##ANIME-GEEK______ANIME-GEEK##ANIME-GEEK______ANIME-GEEK##ANIME-GEEK______ANIME-GEEK
+
+##ANIME_GEEK______ANIME_GEEK##ANIME_GEEK______ANIME_GEEK##ANIME_GEEK______ANIME_GEEK##ANIME_GEEK______ANIME_GEEK##ANIME_GEEK______ANIME_GEEK##
 
 #EXTINF:-1 tvg="" tvg-name="ETC tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/ETC...TV_1996.svg/revision/latest?cb=20180503012824" group-title="Cable_Geek", ETC tv
 http://starlatino.tv:8880/live/CCAICEDO12/YkXeQjuJbRQc/273684.ts
@@ -77,7 +70,7 @@ https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/2026/05/31/05/51/55-080
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1 tvg-id="" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="Cable_Geek", EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:-1 tvg-id"" tvg-name='Zyoon TV' tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGortlgjFybLXHEa6JvKBdSM3eVHk0VbV1A&s" group-title="Anime y Geek", Zyoon TV
+#EXTINF:-1 tvg-id"" tvg-name='Zyoon TV' tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGortlgjFybLXHEa6JvKBdSM3eVHk0VbV1A&s" group-title="Cable_Geek", Zyoon TV
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg="" tvg-logo="https://i.postimg.cc/Vk1L3YMK/a-ST01.jpg" group-title="Cable_Geek", ANIME STATION
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
@@ -87,29 +80,53 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
 ##CABLE_PELICULAS______CABLE-PELICULAS##CABLE_PELICULAS______CABLE-PELICULAS##CABLE_PELICULAS______CABLE-PELICULAS##CABLE_PELICULAS______CABLE-PELICULAS##CABLE_PELICULAS______CABLE-PELICULAS##
 
+#EXTINF:-1 tvg-id "" tvg-name="Clásico Mexicanos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlkqOvHKIx3aYzIpKd8ulwO2DbTMxdZOipkQ&s" group-title="TV Cable",  Clásico Mexicanos
+https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/cb7d3e167b716fdd9cca3f6c84f040a3d10e6385513ad6616aa25e9275c51d5382e9a596e71fbe6e0dbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e0594dc66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f895d30e82989171bd5eb76c5059272e9bcd2cc49e0efb8bcb6f68d1297e421c18e4f595a8486dd541120ea8ad91cf0f971ac8881a957927be72fc25e61eab31e763c4e547a4dffdb506126ff3945d6224a2a8f68cff607ee960fff3a4df702c9abb472a419c6f89722a68c0ad9e4eeaa9779fb551edde0f3419e2c008ccc7d8e98cb4835eee46a0a6a4c2442824621412b95fb79469d72caf13c2a71020524848acd441d2dca6345a775cb9904cdd051abac2f9f2b56135df6c1765fd73e64b1765da356f65bf4193ff3f6399360bf756579a086feb289fb421e1d5bf8f64159484b228926effa535c1e20dbb68034c10bf80483527625c8a990c62347cd54ce7d6f5ed760707f9f6cafbb23752653c046034e1928fda2503a1537f35ed1143437c191b9376ae03bd336870e04d83b1d664478a133525a6863258486595c9cbe1cdb69802dd7ba27ae5b0696a81431d4a04745b83fc44685d723b5f775892066742f2345b4cfe9cc8e296bac9aff6798737781d6fc9f158144702332b3d929e6cd849f1d3338ddb9b0c82bfd652728c32f5554bdec88a38b1ada0d75f03959d521b4c9ec76890207a8944826bc0f958ec9d794a5c304943c7ce73fa5cb2d0d38708923ea2420631bb2ce3d2b3fd862806a7a24b35321b5c582a0121625fee9af0600734bde87fa80da8bb1bf93021595570d78c045191fb374dcc47194e91e09adbe39a795fa007d97cca720cb5580b3a93a515e380a0fce98869407ab793af4bbee1c5c1fbdfc422711c7f72fce55a467ccc29e08665b4f9fd1d071e2055bc465ee375483658e83292e255120337cd/54/1280x720_3849560/index.m3u8
 #EXTINF:-1 tvg="" tvg-name="ENT Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cable_Peliculas", ENT Channel
 https://stream.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg="" tvg-name="ENT Channel Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cable_Peliculas", ENT Channel Family
 https://stream.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Capitan Tsubasa" tvg-logo="https://w7.pngwing.com/pngs/726/876/png-transparent-tsubasa-oozora-captain-tsubasa-road-to-2002-anime-others-television-manga-team-thumbnail.png" group-title="TV Cable", Capitan Tsubasa
-https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00658-canelamediafast-channela-canelatvinternational/cb7d3e167b716fdd9cca3f6c84f040a3d10e6385513ad6616aa25e9275c51d5382e9a596e71fbe6e0dbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e0594dc66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f895d30e82989171bd54b0360d0e272dcdcd2cc49e09fb8bcb6f68d1702c1e1818bef1caab4d38d4431a0cada791cf0f971ac8881a957927be72fc25e61eab31e763c4e547a4dffdb506126ff3945d6224a2a8f68cff607ee960fff3a4df702c9abb472a419c6f89722a68c0ad9e4efda97f97a633bab67c133ccc9437f0f7db80eebe88469d6bded1aef35721426e1070e237c0b44c8156b712bddd2c314e4452ac994cb6f7b3313e77438abf4bc72c0babd29d82dc1761bf0a765bf870e6481163de315369f7218bfe560ea70750f25f52ff5d238941f98720f4a9dcf0073cb0aca3289d6afcef60b89506a7794e3a68d2a276332f297edffe760c421aa924b589a48b1500039e9fa798e9721a5674406034e1928fda2503a1537f35ed1143437c191b9376ae03bd336870e04d83b1d664478a133525a6863258486595c9cbe1cdb69802dd7ba27ae5b0696a81431d4a04745b83fc44685d723b5f775892066742f2345b4cfe9cc8e296bac9aff6798737781d6fc9f158144702332b3d929e6cd849f1d3338ddb9b0c82bfd652728c32f5554bdec88a38b1ada0d75f03959d521b4c9ec76890207a8944826bc0f958ec9d794a5c304943c7ce73fa5cb2d0d38708923ea2420631bb2ce3d2b3fd862806a7a24b35321b5c582a0121625fee9af0600734bde87fa80da8bb1bf93021595570d78c045191fb374dcc47194e91e09adbe39a795fa007d97cca720cb5580b3a93a515e380a0fce98869407ab793af4bbee1c5c1fbdfc422711c7f72fce55a467ccc29e08665b4fdfd1d1f102055bc3e7e32d7f00a28803c3001372fc3ab24/50/1280x720_3849560/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="TV Cable", Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="TV Cable", Retro Plus TV Señal 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="TV Cable", Retro Plus TV Señal 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id "" tvg-name="Clásico Mexicanos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlkqOvHKIx3aYzIpKd8ulwO2DbTMxdZOipkQ&s" group-title="TV Cable",  Clásico Mexicanos
-https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/cb7d3e167b716fdd9cca3f6c84f040a3d10e6385513ad6616aa25e9275c51d5382e9a596e71fbe6e0dbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e0594dc66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f895d30e82989171bd5eb76c5059272e9bcd2cc49e0efb8bcb6f68d1297e421c18e4f595a8486dd541120ea8ad91cf0f971ac8881a957927be72fc25e61eab31e763c4e547a4dffdb506126ff3945d6224a2a8f68cff607ee960fff3a4df702c9abb472a419c6f89722a68c0ad9e4eeaa9779fb551edde0f3419e2c008ccc7d8e98cb4835eee46a0a6a4c2442824621412b95fb79469d72caf13c2a71020524848acd441d2dca6345a775cb9904cdd051abac2f9f2b56135df6c1765fd73e64b1765da356f65bf4193ff3f6399360bf756579a086feb289fb421e1d5bf8f64159484b228926effa535c1e20dbb68034c10bf80483527625c8a990c62347cd54ce7d6f5ed760707f9f6cafbb23752653c046034e1928fda2503a1537f35ed1143437c191b9376ae03bd336870e04d83b1d664478a133525a6863258486595c9cbe1cdb69802dd7ba27ae5b0696a81431d4a04745b83fc44685d723b5f775892066742f2345b4cfe9cc8e296bac9aff6798737781d6fc9f158144702332b3d929e6cd849f1d3338ddb9b0c82bfd652728c32f5554bdec88a38b1ada0d75f03959d521b4c9ec76890207a8944826bc0f958ec9d794a5c304943c7ce73fa5cb2d0d38708923ea2420631bb2ce3d2b3fd862806a7a24b35321b5c582a0121625fee9af0600734bde87fa80da8bb1bf93021595570d78c045191fb374dcc47194e91e09adbe39a795fa007d97cca720cb5580b3a93a515e380a0fce98869407ab793af4bbee1c5c1fbdfc422711c7f72fce55a467ccc29e08665b4f9fd1d071e2055bc465ee375483658e83292e255120337cd/54/1280x720_3849560/index.m3u8
 
+
+##CULTURAL_ENTRETENCION______CULTURAL_ENTRETENCION##CULTURAL_ENTRETENCION______CULTURAL_ENTRETENCION##CULTURAL_ENTRETENCION______CULTURAL_ENTRETENCION##CULTURAL_ENTRETENCION______CULTURAL_ENTRETENCION##CULTURAL_ENTRETENCION______CULTURAL_ENTRETENCION##
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2MKRLkC/DW-EN-VIVO-SD.jpg" group-title="Cable_Entretenimiento_Cultura", DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGM TV" tvg-logo="https://cdn.m3u.cl/logo/1022_EGM_TV.png" group-title="Cable_Entretenimiento_Cultura", EGM TV
+https://vdochile.com:3922/live/egm20live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Cable_Entretenimiento_Cultura", Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+
+
+#24_7______24_7#24_7______24_7#24_7______24_7#24_7______24_7#24_7______24_7##
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | PEDRO INFANTE" tvg-logo="https://cdn.shopify.com/s/files/1/0267/4661/7902/products/ScreenShot2021-03-22at6.14.28PM_300x300.png?v=1616458584" group-title="24/7", 24/7 | PEDRO INFANTE
+http://soporte-visual2.com:8080/live/NIMUH@3m3@/qheXtAN/797146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DIGIMON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7" ,24/7 | DIGIMON
+http://soporte-visual2.com:8080/live/NIMUH@3m3@/qheXtAN/797182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CINEMA DREAMWORKS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7", 24/7 | CINEMA DREAMWORKS
+http://soporte-visual2.com:8080/live/NIMUH@3m3@/qheXtAN/797131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Capitan Tsubasa" tvg-logo="https://w7.pngwing.com/pngs/726/876/png-transparent-tsubasa-oozora-captain-tsubasa-road-to-2002-anime-others-television-manga-team-thumbnail.png" group-title="TV Cable", 24/7 | Capitan Tsubasa
+https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00658-canelamediafast-channela-canelatvinternational/cb7d3e167b716fdd9cca3f6c84f040a3d10e6385513ad6616aa25e9275c51d5382e9a596e71fbe6e0dbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e0594dc66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f895d30e82989171bd54b0360d0e272dcdcd2cc49e09fb8bcb6f68d1702c1e1818bef1caab4d38d4431a0cada791cf0f971ac8881a957927be72fc25e61eab31e763c4e547a4dffdb506126ff3945d6224a2a8f68cff607ee960fff3a4df702c9abb472a419c6f89722a68c0ad9e4efda97f97a633bab67c133ccc9437f0f7db80eebe88469d6bded1aef35721426e1070e237c0b44c8156b712bddd2c314e4452ac994cb6f7b3313e77438abf4bc72c0babd29d82dc1761bf0a765bf870e6481163de315369f7218bfe560ea70750f25f52ff5d238941f98720f4a9dcf0073cb0aca3289d6afcef60b89506a7794e3a68d2a276332f297edffe760c421aa924b589a48b1500039e9fa798e9721a5674406034e1928fda2503a1537f35ed1143437c191b9376ae03bd336870e04d83b1d664478a133525a6863258486595c9cbe1cdb69802dd7ba27ae5b0696a81431d4a04745b83fc44685d723b5f775892066742f2345b4cfe9cc8e296bac9aff6798737781d6fc9f158144702332b3d929e6cd849f1d3338ddb9b0c82bfd652728c32f5554bdec88a38b1ada0d75f03959d521b4c9ec76890207a8944826bc0f958ec9d794a5c304943c7ce73fa5cb2d0d38708923ea2420631bb2ce3d2b3fd862806a7a24b35321b5c582a0121625fee9af0600734bde87fa80da8bb1bf93021595570d78c045191fb374dcc47194e91e09adbe39a795fa007d97cca720cb5580b3a93a515e380a0fce98869407ab793af4bbee1c5c1fbdfc422711c7f72fce55a467ccc29e08665b4fdfd1d1f102055bc3e7e32d7f00a28803c3001372fc3ab24/50/1280x720_3849560/index.m3u8
+
+
+
+##RADIO______RADIO##RADIO______RADIO##RADIO______RADIO##RADIO______RADIO##RADIO______RADIO##
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Lampa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DDPcM8XdFr_2G0_ITKGHtzO49YHFLMgOoA&s" group-title="Radio", Radio Lampa
+https://videostream.chileservidores.com:8081/lampa1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="Radio", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png" group-title="Radio", VClassicTV Tropical
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Radio", Recuerdos Retro Radio TV
-
 #EXTINF:-1 tvg-id="" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="Radio", Pauta TV
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png" group-title="Radio", Radio Infinita
@@ -133,64 +150,43 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-id="" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png" group-title="Radio", Radioactiva TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
 
-#24/7---------------------------------------------------------------------------------------------------
+##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | PEDRO INFANTE" tvg-logo="https://cdn.shopify.com/s/files/1/0267/4661/7902/products/ScreenShot2021-03-22at6.14.28PM_300x300.png?v=1616458584" group-title="24/7", 24/7 | PEDRO INFANTE
-http://soporte-visual2.com:8080/live/NIMUH@3m3@/qheXtAN/797146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | DIGIMON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7" ,24/7 | DIGIMON
-http://soporte-visual2.com:8080/live/NIMUH@3m3@/qheXtAN/797182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | CINEMA DREAMWORKS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7", 24/7 | CINEMA DREAMWORKS
-http://soporte-visual2.com:8080/live/NIMUH@3m3@/qheXtAN/797131.m3u8
-
-
-#EXTINF:-1 tvg-id="DEPELC" tvg-name="DE PELICULA CLASICO" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="24/7" ,DE PELICULA CLASICO
-http://futurateve.net:80/loreto57990017/colsieconi/46121.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons (M)" tvg-logo="http://playlis10.online:8080/images/6f5cdca873153683fa5d9267db9b41ad.jpg" group-title="24/7",24/7 | Los Simpsons (M)
-http://futurateve.net:80/loreto57990017/colsieconi/428566.ts
-#EXTINF:-1 tvg-id="" tvg-name="Los caballeros del zodiaco 24/7" tvg-logo="http://playlis10.online:8080/images/8db7e1d3fc82612a431d526e98ede7f0.jpg" group-title="24/7",Los caballeros del zodiaco 24/7
-http://futurateve.net:80/loreto57990017/colsieconi/428557.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los super campeones" tvg-logo="http://playlis10.online:8080/images/876c3078bff8bfa7b6aeae19537c8506.jpg" group-title="24/7",24/7 | Los super campeones
-http://futurateve.net:80/loreto57990017/colsieconi/428550.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Pajaro Loco" tvg-logo="https://i.pinimg.com/originals/c5/20/b5/c520b5af14357c416470750c22f58cb7.jpg" group-title="24/7",24/7 | El Pajaro Loco
-http://futurateve.net:80/loreto57990017/colsieconi/428544.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | One Punch Man" tvg-logo="https://i.pinimg.com/564x/38/6a/42/386a42c0ac0548d7d64dd0b2543bfd6c.jpg" group-title="24/7",24/7 | One Punch Man
-http://futurateve.net:80/loreto57990017/colsieconi/428539.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Danny Phantom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLf77qFk54GQcmwSsox6g9JmQHu.jpg" group-title="24/7",24/7 Danny Phantom
-http://futurateve.net:80/loreto57990017/colsieconi/428535.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La máscara" tvg-logo="https://i.imgur.com/2fI3Xz0.jpg" group-title="24/7",24/7 La máscara
-http://futurateve.net:80/loreto57990017/colsieconi/428534.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La liga de la justicia" tvg-logo="http://playlis10.online:8080/images/a99d753080ac42c8d29d8db0a08496c9.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 La liga de la justicia
-http://futurateve.net:80/loreto57990017/colsieconi/428532.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Street Sharks" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk8PDEgEP1KLcinuhn6RIvWXy9E.jpg" group-title="24/7",24/7 Street Sharks
-http://futurateve.net:80/loreto57990017/colsieconi/428530.ts
-
-##PELICULAS______PELICULAS##PELICULAS______PELICULAS##PELICULAS______PELICULAS##PELICULAS______PELICULAS##PELICULAS______PELICULAS##PELICULAS______PELICULAS##PELICULAS______PELICULAS##
-
-#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zpDlbF2dvGKoOQ4aibUa8Z25k1f.jpg" group-title="▶️ ESTRENOS 2029 ▶️",Proyecto Fin del Mundo (2026)
+#EXTINF:-1 tvg-id="" tvg-name="ChaO (2025)" tvg-logo="http://redworld.pro:8880/images/74f4e5dbdb997f789ed4526b1f0006a2.jpg" group-title="Peliculas 2025",ChaO (2025)
+http://starlatino.tv:8880/movie/CCAICEDO12/YkXeQjuJbRQc/527283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zpDlbF2dvGKoOQ4aibUa8Z25k1f.jpg" group-title="Peliculas 2026",Proyecto Fin del Mundo (2026)
 http://infinitisurl.com:8080/movie/Rrodriguez/Robert202304/635416.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Escalofríos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0JWKJol7A3NKPlat8UAnDx18yS.jpg" group-title="NETFLIX",Escalofríos S01 E01
-http://intelcarlos.xyz:8080/series/Josedeschamps2331/PtbHfXX/505423.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="Antz (Hormigaz) (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFDqymFtThCysdUsCywYD8wj7nf.jpg" group-title="DISNEY",Antz (Hormigaz) (1998)
-http://intelcarlos.xyz:8080/movie/Josedeschamps2331/PtbHfXX/736399.mkv
+##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##
 
-#EXTINF:-1 tvg-id="" tvg-name="Amelie (2001)" tvg-logo="https://image.tmdb.org/t/p/w500/hQUWX6ddZucA3FZ1hmC4nUV77YS.jpg" group-title="VARIADAS 1",Amelie (2001)
-http://intelcarlos.xyz:8080/movie/Josedeschamps2331/PtbHfXX/741087.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Interestelar" tvg-logo="https://image.tmdb.org/t/p/w500/hQUWX6ddZucA3FZ1hmC4nUV77YS.jpg" group-title="Pelicula",Interestelar
-https://streamimdb.ru/embed/movie/tt0816692
-
-#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zpDlbF2dvGKoOQ4aibUa8Z25k1f.jpg" group-title="▶️ ESTRENOS 2028 ▶️",Proyecto Fin del Mundo (2026)
-http://infinitisurl.com:8080/movie/Rrodriguez/Robert202304/635416.mp4
-
-#SERIES---------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de en Medio: La vida sigue siendo injusta S01 E01" tvg-logo="http://redworld.pro:8880/images/54dc90fa06cb8064b67b6b6c76ba7b2a.jpg" group-title="⭐️ Series Disney ",Malcolm el de en Medio: La vida sigue siendo injusta S01 E01
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de en Medio: La vida sigue siendo injusta S01 E02" tvg-logo="http://redworld.pro:8880/images/3c219ec5ea847e0b69af20a75cfada03.jpg" group-title="⭐️ Series Disney ",Malcolm el de en Medio: La vida sigue siendo injusta S01 E02
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de en Medio: La vida sigue siendo injusta S01 E03" tvg-logo="http://redworld.pro:8880/images/9ce0ae87713d0260a4f98b4369ee6704.jpg" group-title="⭐️ Series Disney ",Malcolm el de en Medio: La vida sigue siendo injusta S01 E03
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de en Medio: La vida sigue siendo injusta S01 E04" tvg-logo="http://redworld.pro:8880/images/f67c918a50cdd50e6b844f5489b7043b.jpg" group-title="⭐️ Series Disney ",Malcolm el de en Medio: La vida sigue siendo injusta S01 E04
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E01" tvg-logo="http://redworld.pro:8880/images/7f759410c483bcbc547d57c724961777.jpg" group-title="Series HBO",The Pitt S02 E01
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E02" tvg-logo="http://redworld.pro:8880/images/7676df7c59b557838cce91f734e69e05.jpg" group-title="Series HBO",The Pitt S02 E02
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E03" tvg-logo="http://redworld.pro:8880/images/0aa82a53002bce5d09add96aee6ecc46.jpg" group-title="Series HBO",The Pitt S02 E03
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E04" tvg-logo="http://redworld.pro:8880/images/7bd02e81732e058a9a52ba0692350e77.jpg" group-title="Series HBO",The Pitt S02 E04
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E05" tvg-logo="http://redworld.pro:8880/images/9b05f21ed2f8e4abb18ead63c39b3fa0.jpg" group-title="Series HBO",The Pitt S02 E05
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E06" tvg-logo="http://redworld.pro:8880/images/0ca8b97297164a997e6f52fc6720d149.jpg" group-title="Series HBO",The Pitt S02 E06
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/502807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E07" tvg-logo="http://redworld.pro:8880/images/42074e48436f2c11821e0b85ae2774da.jpg" group-title="Series HBO",The Pitt S02 E07
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/513285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E08" tvg-logo="http://redworld.pro:8880/images/eba88cffb5df2a027eb5caadbd861e0d.jpg" group-title="Series HBO",The Pitt S02 E08
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/514080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E09" tvg-logo="http://redworld.pro:8880/images/d8ea900a544e9940750d81e1c12ff9cc.jpg" group-title="Series HBO",The Pitt S02 E09
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/514372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E10" tvg-logo="http://redworld.pro:8880/images/185b71dfd4c30574b2c88876b772b011.jpg" group-title="Series HBO",The Pitt S02 E10
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/518910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E11" tvg-logo="http://redworld.pro:8880/images/2a1947c102344f005ab90147bae8906c.jpg" group-title="Series HBO",The Pitt S02 E11
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/520147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E12" tvg-logo="http://redworld.pro:8880/images/44e2303357c0d9db636d72a06c852483.jpg" group-title="Series HBO",The Pitt S02 E12
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/521106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E13" tvg-logo="http://redworld.pro:8880/images/1b11473f37481327811763c4fbbc865e.jpg" group-title="Series HBO",The Pitt S02 E13
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/521752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E14" tvg-logo="http://redworld.pro:8880/images/fefb23f43ab6cf9f9b7eef0ae1c368e8.jpg" group-title="Series HBO",The Pitt S02 E14
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E15" tvg-logo="http://redworld.pro:8880/images/56ccac26a4853e8014922b6ae0e64c7f.jpg" group-title="Series HBO",The Pitt S02 E15
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/524514.mp4
