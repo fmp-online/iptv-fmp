@@ -62,6 +62,10 @@ https://vdochile.com:3922/live/egm20live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="TV Cable", Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
+##ANIME-GEEK______ANIME-GEEK##ANIME-GEEK______ANIME-GEEK##ANIME-GEEK______ANIME-GEEK##ANIME-GEEK______ANIME-GEEK##ANIME-GEEK______ANIME-GEEK
+
+#EXTINF:-1 tvg-id"" tvg-name='Zyoon TV' tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGortlgjFybLXHEa6JvKBdSM3eVHk0VbV1A&s" group-title="Anime y Geek", Zyoon TV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-id"" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="TV Cable", K-POP HD
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg="" tvg-name="ETC tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/ETC...TV_1996.svg/revision/latest?cb=20180503012824" group-title="TV Cable", ETC tv
@@ -145,7 +149,7 @@ http://futurateve.net:80/loreto57990017/colsieconi/428532.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Street Sharks" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk8PDEgEP1KLcinuhn6RIvWXy9E.jpg" group-title="24/7",24/7 Street Sharks
 http://futurateve.net:80/loreto57990017/colsieconi/428530.ts
 
-##PELICULAS______PELICULAS####PELICULAS______PELICULAS####PELICULAS______PELICULAS####PELICULAS______PELICULAS####PELICULAS______PELICULAS####PELICULAS______PELICULAS##
+##PELICULAS______PELICULAS##PELICULAS______PELICULAS##PELICULAS______PELICULAS##PELICULAS______PELICULAS##PELICULAS______PELICULAS##PELICULAS______PELICULAS##PELICULAS______PELICULAS##
 
 #EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zpDlbF2dvGKoOQ4aibUa8Z25k1f.jpg" group-title="▶️ ESTRENOS 2029 ▶️",Proyecto Fin del Mundo (2026)
 http://infinitisurl.com:8080/movie/Rrodriguez/Robert202304/635416.mp4
