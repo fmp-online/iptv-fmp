@@ -68,9 +68,6 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="" tvg-name="UCV TV Eventos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/1280px-Ucvtvlogo2014mejorado.png" group-title="Nacionales",UCV TV Eventos
 https://pantera1-100gb-cl-movistar.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TeleCauquenes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9o-uAsKMrzeAtBp3LtYP0XTmA6BmVuiP_iA&s" group-title="Nacionales",TeleCauquenes
-https://live-hls2.mundogo.cl/telecauquenes/telecauquenes.m3u8
-
 
 ##GEEK_____________________________________________________________________________________________________GEEK##
 
@@ -138,32 +135,77 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-id="" tvg-name="Historia" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Cultura",Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="Cultura",History 2
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318619
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="Cultura",Discovery Channel
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318603
+
+#EXTINF:-1 tvg-id="" tvg-name="NAT Geo" tvg-logo="http://redworld.pro:8880/images/7a9d62e859726cf7afa212b05ad79f7f.png" group-title="Cultura",NAT Geo
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318621
+
 
 ##ENTRETENIMIENTO_______________________________________________________________________________ENTRETENIMIENTO##
 
 #EXTINF:-1 tvg-id="" tvg-name="EGM TV" tvg-logo="https://cdn.m3u.cl/logo/1022_EGM_TV.png" group-title="Entretenimiento",EGM TV
 https://vdochile.com:3922/live/egm20live.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="Entretenimiento",E! Entretainment
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318626
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://redworld.pro:8880/images/8361b0aa15c201aba7d73d0b6193b6c7.png" group-title="Entretenimiento",HGTV
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318631
+
 
 ##24/7_____________________________________________________________________________________________________24/7##
 
-#EXTINF:-1 tvg-id="" tvg-name="Pedro Infante" tvg-logo="https://cdn.shopify.com/s/files/1/0267/4661/7902/products/ScreenShot2021-03-22at6.14.28PM_300x300.png?v=1616458584" group-title="24/7",Pedro Infante
-http://soporte-visual2.com:8080/live/NIMUH@3m3@/qheXtAN/797146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ed, Edd y Eddy" tvg-logo="http://redworld.pro:8880/images/8413ab937c447ec1e42fe431954c6a51.jpg" group-title="24/7",Ed, Edd y Eddy
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526332
 
-#EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",Digimon
-http://soporte-visual2.com:8080/live/NIMUH@3m3@/qheXtAN/797182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="http://redworld.pro:8880/images/854fa36e250f15cc53eed7925ef9156f.png" group-title="24/7",Harry Potter
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526369
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Dreamwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/247tv_bolivia.png" group-title="24/7",Cinema Dreamwork
-http://soporte-visual2.com:8080/live/NIMUH@3m3@/qheXtAN/797131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball 1 al 76" tvg-logo="http://redworld.pro:8880/images/47fae34277b9e3a01392eec0c49a5434.jpg" group-title="24/7",Dragon Ball 1 al 76
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526403
 
 #EXTINF:-1 tvg-id="" tvg-name="Capitan Tsubasa" tvg-logo="https://w7.pngwing.com/pngs/726/876/png-transparent-tsubasa-oozora-captain-tsubasa-road-to-2002-anime-others-television-manga-team-thumbnail.png" group-title="24/7",Capitan Tsubasa
 https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00658-canelamediafast-channela-canelatvinternational/cb7d3e167b716fdd9cca3f6c84f040a3d10e6385513ad6616aa25e9275c51d5382e9a596e71fbe6e0dbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e0594dc66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f895d30e82989171bd54b0360d0e272dcdcd2cc49e09fb8bcb6f68d1702c1e1818bef1caab4d38d4431a0cada791cf0f971ac8881a957927be72fc25e61eab31e763c4e547a4dffdb506126ff3945d6224a2a8f68cff607ee960fff3a4df702c9abb472a419c6f89722a68c0ad9e4efda97f97a633bab67c133ccc9437f0f7db80eebe88469d6bded1aef35721426e1070e237c0b44c8156b712bddd2c314e4452ac994cb6f7b3313e77438abf4bc72c0babd29d82dc1761bf0a765bf870e6481163de315369f7218bfe560ea70750f25f52ff5d238941f98720f4a9dcf0073cb0aca3289d6afcef60b89506a7794e3a68d2a276332f297edffe760c421aa924b589a48b1500039e9fa798e9721a5674406034e1928fda2503a1537f35ed1143437c191b9376ae03bd336870e04d83b1d664478a133525a6863258486595c9cbe1cdb69802dd7ba27ae5b0696a81431d4a04745b83fc44685d723b5f775892066742f2345b4cfe9cc8e296bac9aff6798737781d6fc9f158144702332b3d929e6cd849f1d3338ddb9b0c82bfd652728c32f5554bdec88a38b1ada0d75f03959d521b4c9ec76890207a8944826bc0f958ec9d794a5c304943c7ce73fa5cb2d0d38708923ea2420631bb2ce3d2b3fd862806a7a24b35321b5c582a0121625fee9af0600734bde87fa80da8bb1bf93021595570d78c045191fb374dcc47194e91e09adbe39a795fa007d97cca720cb5580b3a93a515e380a0fce98869407ab793af4bbee1c5c1fbdfc422711c7f72fce55a467ccc29e08665b4fdfd1d1f102055bc3e7e32d7f00a28803c3001372fc3ab24/50/1280x720_3849560/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Princesas Disney" tvg-logo="http://redworld.pro:8880/images/03473caa66abcf6a6165dea7774c8b41.jpg" group-title="24/7",Princesas Disney
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526422
+
+#EXTINF:-1 tvg-id="" tvg-name="Rocky" tvg-logo="http://redworld.pro:8880/images/75e6db90583241de2408ea44d3520859.jpg" group-title="24/7",Rocky
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526420
+
+#EXTINF:-1 tvg-id="" tvg-name="Robotech" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__nmteICfa-SB9CZ3voNncnXAG8JbUTtmRg&s" group-title="24/7",Robotech
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526446
+
+#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco" tvg-logo="http://redworld.pro:8880/images/39bc1d236350af0b6d6670555c703e7d.png" group-title="24/7",Caballeros del Zodiaco
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526474
+
+#EXTINF:-1 tvg-id="" tvg-name="Batman Animado" tvg-logo="http://redworld.pro:8880/images/f8f65478effdd79cd447572c7f17cfe8.png" group-title="24/7",Batman Animado
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526491
+
+#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="https://www.pngall.com/wp-content/uploads/12/Jackie-Chan-Transparent.png" group-title="24/7",Jackie Chan
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526503
+
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Dragon Ball" tvg-logo="http://redworld.pro:8880/images/3bf4bbc00905093ed0366e108c97c3f0.png" group-title="24/7",Peliculas Dragon Ball
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526517
+
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Dragon Ball Z" tvg-logo="http://redworld.pro:8880/images/eeff9c1fdf6786e8712b0bcb6877e34d.jpg" group-title="24/7",Peliculas Dragon Ball Z
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526559
+
+#EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="http://redworld.pro:8880/images/d6356d8d07e7a4ff673074aa4c028ae9.png" group-title="24/7",Digimon
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526566
 
 
 ##RADIOS_________________________________________________________________________________________________RADIOS##
 
 #EXTINF:-1 tvg-id="" tvg-name="Radio Lampa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DDPcM8XdFr_2G0_ITKGHtzO49YHFLMgOoA&s" group-title="Radios",Radio Lampa
 https://videostream.chileservidores.com:8081/lampa1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TeleCauquenes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9o-uAsKMrzeAtBp3LtYP0XTmA6BmVuiP_iA&s" group-title="Nacionales",TeleCauquenes
+https://live-hls2.mundogo.cl/telecauquenes/telecauquenes.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png" group-title="Radios",VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
@@ -203,6 +245,110 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 
 #EXTINF:-1 tvg-id="" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png" group-title="Radios",Radioactiva TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
+
+##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ChaO (2025)" tvg-logo="http://redworld.pro:8880/images/74f4e5dbdb997f789ed4526b1f0006a2.jpg" group-title="Peliculas 2025",ChaO (2025)
+http://starlatino.tv:8880/movie/CCAICEDO12/YkXeQjuJbRQc/527283.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zpDlbF2dvGKoOQ4aibUa8Z25k1f.jpg" group-title="Peliculas 2026",Proyecto Fin del Mundo (2026)
+http://infinitisurl.com:8080/movie/Rrodriguez/Robert202304/635416.mp4
+
+
+##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E01" tvg-logo="http://redworld.pro:8880/images/7f759410c483bcbc547d57c724961777.jpg" group-title="Series HBO",The Pitt S02 E01
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495108.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E02" tvg-logo="http://redworld.pro:8880/images/7676df7c59b557838cce91f734e69e05.jpg" group-title="Series HBO",The Pitt S02 E02
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495109.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E03" tvg-logo="http://redworld.pro:8880/images/0aa82a53002bce5d09add96aee6ecc46.jpg" group-title="Series HBO",The Pitt S02 E03
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495110.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E04" tvg-logo="http://redworld.pro:8880/images/7bd02e81732e058a9a52ba0692350e77.jpg" group-title="Series HBO",The Pitt S02 E04
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495111.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E05" tvg-logo="http://redworld.pro:8880/images/9b05f21ed2f8e4abb18ead63c39b3fa0.jpg" group-title="Series HBO",The Pitt S02 E05
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495112.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E06" tvg-logo="http://redworld.pro:8880/images/0ca8b97297164a997e6f52fc6720d149.jpg" group-title="Series HBO",The Pitt S02 E06
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/502807.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E07" tvg-logo="http://redworld.pro:8880/images/42074e48436f2c11821e0b85ae2774da.jpg" group-title="Series HBO",The Pitt S02 E07
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/513285.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E08" tvg-logo="http://redworld.pro:8880/images/eba88cffb5df2a027eb5caadbd861e0d.jpg" group-title="Series HBO",The Pitt S02 E08
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/514080.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E09" tvg-logo="http://redworld.pro:8880/images/d8ea900a544e9940750d81e1c12ff9cc.jpg" group-title="Series HBO",The Pitt S02 E09
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/514372.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E10" tvg-logo="http://redworld.pro:8880/images/185b71dfd4c30574b2c88876b772b011.jpg" group-title="Series HBO",The Pitt S02 E10
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/518910.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E11" tvg-logo="http://redworld.pro:8880/images/2a1947c102344f005ab90147bae8906c.jpg" group-title="Series HBO",The Pitt S02 E11
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/520147.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E12" tvg-logo="http://redworld.pro:8880/images/44e2303357c0d9db636d72a06c852483.jpg" group-title="Series HBO",The Pitt S02 E12
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/521106.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E13" tvg-logo="http://redworld.pro:8880/images/1b11473f37481327811763c4fbbc865e.jpg" group-title="Series HBO",The Pitt S02 E13
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/521752.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E14" tvg-logo="http://redworld.pro:8880/images/fefb23f43ab6cf9f9b7eef0ae1c368e8.jpg" group-title="Series HBO",The Pitt S02 E14
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522970.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E15" tvg-logo="http://redworld.pro:8880/images/56ccac26a4853e8014922b6ae0e64c7f.jpg" group-title="Series HBO",The Pitt S02 E15
+http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/524514.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="Radio", Pauta TV
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png" group-title="Radio", Radio Infinita
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="Radio", Radio Agricultura
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="Radio", Radio Agricultura 2
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Duna" tvg-logo="https://cdn.m3u.cl/logo/427_Radio_Duna.png" group-title="Radio", Radio Duna
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Pudahuel FM" tvg-logo="https://cdn.m3u.cl/logo/429_Pudahuel_FM.png" group-title="Radio", Pudahuel FM
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cooperativa" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" group-title="Radio", Cooperativa
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="La Clave" tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png" group-title="Radio", La Clave
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="Radio", El Conquistador Santiago
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="Radio", La Metro
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png" group-title="Radio", Radioactiva TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
+
 
 ##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##
 
