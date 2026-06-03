@@ -117,6 +117,7 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
 
+
 ##CULTURA_______________________________________________________________________________________________CULTURA##
 
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.ibb.co/2MKRLkC/DW-EN-VIVO-SD.jpg" group-title="Cultura",DW
@@ -242,105 +243,11 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-id="" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png" group-title="Radios",Radioactiva TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
 
-##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##PELICULAS_VOD______PELICULAS_VOD##
 
+##DEPORTES_____________________________________________________________________________________________DEPORTES##
 
-#EXTINF:-1 tvg-id="" tvg-name="ChaO (2025)" tvg-logo="http://redworld.pro:8880/images/74f4e5dbdb997f789ed4526b1f0006a2.jpg" group-title="Peliculas 2025",ChaO (2025)
-http://starlatino.tv:8880/movie/CCAICEDO12/YkXeQjuJbRQc/527283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Radios",⚽ TNT Sport - 1
+http://rlatinop.com:8880/Alexis@7541/FFhssSgk8Mn9/430649
 
-#EXTINF:-1 tvg-id="" tvg-name="Proyecto Fin del Mundo (2026)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zpDlbF2dvGKoOQ4aibUa8Z25k1f.jpg" group-title="Peliculas 2026",Proyecto Fin del Mundo (2026)
-http://infinitisurl.com:8080/movie/Rrodriguez/Robert202304/635416.mp4
-
-
-##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##SERIES_VOD______SERIES_VOD##
-
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E01" tvg-logo="http://redworld.pro:8880/images/7f759410c483bcbc547d57c724961777.jpg" group-title="Series HBO",The Pitt S02 E01
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495108.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E02" tvg-logo="http://redworld.pro:8880/images/7676df7c59b557838cce91f734e69e05.jpg" group-title="Series HBO",The Pitt S02 E02
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495109.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E03" tvg-logo="http://redworld.pro:8880/images/0aa82a53002bce5d09add96aee6ecc46.jpg" group-title="Series HBO",The Pitt S02 E03
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495110.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E04" tvg-logo="http://redworld.pro:8880/images/7bd02e81732e058a9a52ba0692350e77.jpg" group-title="Series HBO",The Pitt S02 E04
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495111.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E05" tvg-logo="http://redworld.pro:8880/images/9b05f21ed2f8e4abb18ead63c39b3fa0.jpg" group-title="Series HBO",The Pitt S02 E05
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/495112.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E06" tvg-logo="http://redworld.pro:8880/images/0ca8b97297164a997e6f52fc6720d149.jpg" group-title="Series HBO",The Pitt S02 E06
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/502807.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E07" tvg-logo="http://redworld.pro:8880/images/42074e48436f2c11821e0b85ae2774da.jpg" group-title="Series HBO",The Pitt S02 E07
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/513285.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E08" tvg-logo="http://redworld.pro:8880/images/eba88cffb5df2a027eb5caadbd861e0d.jpg" group-title="Series HBO",The Pitt S02 E08
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/514080.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E09" tvg-logo="http://redworld.pro:8880/images/d8ea900a544e9940750d81e1c12ff9cc.jpg" group-title="Series HBO",The Pitt S02 E09
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/514372.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E10" tvg-logo="http://redworld.pro:8880/images/185b71dfd4c30574b2c88876b772b011.jpg" group-title="Series HBO",The Pitt S02 E10
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/518910.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E11" tvg-logo="http://redworld.pro:8880/images/2a1947c102344f005ab90147bae8906c.jpg" group-title="Series HBO",The Pitt S02 E11
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/520147.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E12" tvg-logo="http://redworld.pro:8880/images/44e2303357c0d9db636d72a06c852483.jpg" group-title="Series HBO",The Pitt S02 E12
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/521106.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E13" tvg-logo="http://redworld.pro:8880/images/1b11473f37481327811763c4fbbc865e.jpg" group-title="Series HBO",The Pitt S02 E13
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/521752.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E14" tvg-logo="http://redworld.pro:8880/images/fefb23f43ab6cf9f9b7eef0ae1c368e8.jpg" group-title="Series HBO",The Pitt S02 E14
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/522970.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Pitt S02 E15" tvg-logo="http://redworld.pro:8880/images/56ccac26a4853e8014922b6ae0e64c7f.jpg" group-title="Series HBO",The Pitt S02 E15
-http://starlatino.tv:8880/series/CCAICEDO12/YkXeQjuJbRQc/524514.mp4
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="Radio", Pauta TV
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png" group-title="Radio", Radio Infinita
-https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura" tvg-logo="https://cdn.m3u.cl/logo/423_Radio_Agricultura.png" group-title="Radio", Radio Agricultura
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png" group-title="Radio", Radio Agricultura 2
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Radio Duna" tvg-logo="https://cdn.m3u.cl/logo/427_Radio_Duna.png" group-title="Radio", Radio Duna
-https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Pudahuel FM" tvg-logo="https://cdn.m3u.cl/logo/429_Pudahuel_FM.png" group-title="Radio", Pudahuel FM
-https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Cooperativa" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" group-title="Radio", Cooperativa
-https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="La Clave" tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png" group-title="Radio", La Clave
-https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="El Conquistador Santiago" tvg-logo="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png" group-title="Radio", El Conquistador Santiago
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="La Metro" tvg-logo="https://cdn.m3u.cl/logo/1534_La_Metro.png" group-title="Radio", La Metro
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Radioactiva TV" tvg-logo="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png" group-title="Radio", Radioactiva TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Radios",⚽ TNT Sport - 2
+http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/430647
