@@ -1,26 +1,10 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="Michael" tvg-logo="http://aioplus.es:80/images/b093c8a62d670de3ecea1ad3c54bfe98.jpg" group-title="♦️ESTRENOS 2026♦️",Michael
 http://play-tv.biz:80/movie/Martinez2026/Martinez2026/829343.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II" tvg-logo="http://aioplus.es:80/images/82798650f40c81e002e584ef365512da.jpg" group-title="♦️ESTRENOS 2026♦️",Mortal Kombat II
 http://play-tv.biz:80/movie/Martinez2026/Martinez2026/829345.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así aprenderás (2026) S01 E02" tvg-logo="http://aioplus.es:80/images/62dec0cf06310360a14ceada60f4e4d0.jpg" group-title="🎌DORAMA️",Así aprenderás (2026) S01 E02
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/828962.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así aprenderás (2026) S01 E03" tvg-logo="http://aioplus.es:80/images/62dec0cf06310360a14ceada60f4e4d0.jpg" group-title="🎌DORAMA️",Así aprenderás (2026) S01 E03
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/828965.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así aprenderás (2026) S01 E04" tvg-logo="http://aioplus.es:80/images/62dec0cf06310360a14ceada60f4e4d0.jpg" group-title="🎌DORAMA️",Así aprenderás (2026) S01 E04
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/828971.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así aprenderás (2026) S01 E05" tvg-logo="http://aioplus.es:80/images/62dec0cf06310360a14ceada60f4e4d0.jpg" group-title="🎌DORAMA️",Así aprenderás (2026) S01 E05
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/828968.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así aprenderás (2026) S01 E06" tvg-logo="http://aioplus.es:80/images/62dec0cf06310360a14ceada60f4e4d0.jpg" group-title="🎌DORAMA️",Así aprenderás (2026) S01 E06
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/828964.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así aprenderás (2026) S01 E07" tvg-logo="http://aioplus.es:80/images/62dec0cf06310360a14ceada60f4e4d0.jpg" group-title="🎌DORAMA️",Así aprenderás (2026) S01 E07
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/828966.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así aprenderás (2026) S01 E08" tvg-logo="http://aioplus.es:80/images/62dec0cf06310360a14ceada60f4e4d0.jpg" group-title="🎌DORAMA️",Así aprenderás (2026) S01 E08
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/828967.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así aprenderás (2026) S01 E09" tvg-logo="http://aioplus.es:80/images/62dec0cf06310360a14ceada60f4e4d0.jpg" group-title="🎌DORAMA️",Así aprenderás (2026) S01 E09
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/828969.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Así aprenderás (2026) S01 E10" tvg-logo="http://aioplus.es:80/images/62dec0cf06310360a14ceada60f4e4d0.jpg" group-title="🎌DORAMA️",Así aprenderás (2026) S01 E10
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/828970.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="The WONDERfools S01 E01" tvg-logo="http://redworld.pro:8880/images/0379d1895f005480cf929aa96258b951.jpg" group-title="🎌DORAMA",The WONDERfools S01 E01
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/526288.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The WONDERfools S01 E02" tvg-logo="http://redworld.pro:8880/images/61a756e1a492b94544ac7d59e04e5ed9.jpg" group-title="🎌DORAMA",The WONDERfools S01 E02
