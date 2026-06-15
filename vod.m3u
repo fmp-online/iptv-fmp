@@ -1,137 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/b093c8a62d670de3ecea1ad3c54bfe98.jpg" group-title="2026",Michael
+#EXTINF:-1 tvg-name="Michael"  tvg-logo="http://aioplus.es:80/images/b093c8a62d670de3ecea1ad3c54bfe98.jpg" group-title="2026",Michael
 http://play-tv.biz:80/movie/Martinez2026/Martinez2026/829343.mkv
-#EXTINF:-1 tvg-logo="https://agendadecine.ar/wp-content/uploads/2025/03/WARNER-MORTAL-KOMBAT-II.png" group-title="2026",Mortal Kombat II
+#EXTINF:-1 tvg-name="Mortal Kombat II"  tvg-logo="https://agendadecine.ar/wp-content/uploads/2025/03/WARNER-MORTAL-KOMBAT-II.png" group-title="2026",Mortal Kombat II
 http://play-tv.biz:80/movie/Martinez2026/Martinez2026/829345.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/a78217724f9557e3a11c059de66a518b.jpg" group-title="1988",Akira
+#EXTINF:-1 tvg-name="Akira"  tvg-logo="http://aioplus.es:80/images/a78217724f9557e3a11c059de66a518b.jpg" group-title="1988",Akira
 http://play-tv.biz:80/movie/Martinez2026/Martinez2026/775713.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_chico_y_la_garza-917153869-large.jpg" group-title="2023",El chico y la garza
+#EXTINF:-1 tvg-name="El chico y la garza"  tvg-logo="https://pics.filmaffinity.com/El_chico_y_la_garza-917153869-large.jpg" group-title="2023",El chico y la garza
 http://play-tv.biz:80/movie/Martinez2026/Martinez2026/720515.mkv
-#EXTINF:-1 tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E01
+#EXTINF:-1 tvg-name="The WONDERfools S01E01"  tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E01
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/526288.mp4
-#EXTINF:-1 tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E02
+#EXTINF:-1 tvg-name="The WONDERfools S01E02"  tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E02
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/526289.mp4
-#EXTINF:-1 tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E03
+#EXTINF:-1 tvg-name="The WONDERfools S01E03"  tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E03
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/526290.mp4
-#EXTINF:-1 tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E04
+#EXTINF:-1 tvg-name="The WONDERfools S01E04"  tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E04
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/526291.mp4
-#EXTINF:-1 tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E05
+#EXTINF:-1 tvg-name="The WONDERfools S01E05"  tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E05
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/526292.mp4
-#EXTINF:-1 tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E06
+#EXTINF:-1 tvg-name="The WONDERfools S01E06"  tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E06
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/526293.mp4
-#EXTINF:-1 tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E07
+#EXTINF:-1 tvg-name="The WONDERfools S01E07"  tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E07
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/526294.mp4
-#EXTINF:-1 tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E08
+#EXTINF:-1 tvg-name="The WONDERfools S01E08"  tvg-logo="https://newsimg.koreatimes.co.kr/2026/05/14/1b62ce32-9e7b-476e-81bd-71119c7c07ab.jpg?w=640" group-title="Dorama",The WONDERfools S01E08
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/526295.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/b830f4de2872379e814f2fc69693d6b6.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E01
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502411.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/28114b70c5a53a6efa0f4612d8f91f76.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E02
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502412.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/490a57433a6b2e0b816bdd522cd5ca46.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E03
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502413.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/1981dd58a8038bdffde9de3bedb7eadc.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E04
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502414.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/d2b34fcc30c9b04ff4c25a36105b4895.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E05
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502415.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/43109b0bd5371983cd01c8e5a27acf9c.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E06
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502416.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/35d74ea95e28203267c1da5b3f16b5b0.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E07
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502417.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/107328f25dfa506b203fbeda6e410d00.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E08
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502418.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/e63a61eba0bc47b0b5e98ef6761c91f1.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E09
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502419.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/304b8d7ebf4a3e866453bae92a5e1f2d.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E10
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502420.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/aee157da982f6cf2172280640d7fa9c7.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E11
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502421.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/9c004969844608784eb82f4cacc8d1b0.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E12
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502422.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/8867ad86b71b89ee1010f038740e0cee.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E13
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502423.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/f8ee9753c29b35e89e3a89034e1277fc.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E14
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502424.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/f2102cb940711051af1b04bffee2bfb9.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E15
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502425.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/fd3e86f8e1ac72089c603ad4dca4604a.jpg" group-title="Dorama",Callejero Novato - backstreet rookie S01E16
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/502426.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/ab7e59b7b608605af993bee556f3b7f3.jpg" group-title="Documental",Michael Jackson: El veredicto S01E01
+#EXTINF:-1 tvg-name="Michael Jackson: El veredicto S01E01"  tvg-logo="http://redworld.pro:8880/images/ab7e59b7b608605af993bee556f3b7f3.jpg" group-title="Documental/MJ",Michael Jackson: El veredicto S01E01
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/532483.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/33883d40c23d5884abc5a32a0fdb365f.jpg" group-title="Documental",Michael Jackson: El veredicto S01E02
+#EXTINF:-1 tvg-name="Michael Jackson: El veredicto S01E02"  tvg-logo="http://redworld.pro:8880/images/33883d40c23d5884abc5a32a0fdb365f.jpg" group-title="Documental/MJ",Michael Jackson: El veredicto S01E02
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/532484.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/248446526260dc0f07f53c944736e766.jpg" group-title="Documental",Michael Jackson: El veredicto S01E03
+#EXTINF:-1 tvg-name="Michael Jackson: El veredicto S01E03"  tvg-logo="http://redworld.pro:8880/images/248446526260dc0f07f53c944736e766.jpg" group-title="Documental/MJ",Michael Jackson: El veredicto S01E03
 http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/532485.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/c7cb7b780673ee971409551ec633e958.jpg" group-title="Amazon",El joven Sherlock S01E01
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/514141.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/fb2384fdfa4260364df7c156173ef0d0.jpg" group-title="Amazon",El joven Sherlock S01E02
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/514142.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/df93554336a470994b8e28d3f8c07a68.jpg" group-title="Amazon",El joven Sherlock S01E03
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/514143.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/8d769e4d6b049ad7d2da056b3db9e4ad.jpg" group-title="Amazon",El joven Sherlock S01E04
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/514144.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/e4f931804f538c0f0a77c8a6f76a33b2.jpg" group-title="Amazon",El joven Sherlock S01E05
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/514145.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/d8ceb6e41385c34762e45fc6f87830ad.jpg" group-title="Amazon",El joven Sherlock S01E06
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/514146.mp4
-#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/b9c16bf3378873632ca9d7a4b23a1481.jpg" group-title="Amazon",El joven Sherlock S01E07
-http://rlatinop.com:8880/series/Alexis@7541/FFhssSgk8Mn9/514147.mp4
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E01
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813361.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E02
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813362.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E03
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813363.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E04
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813364.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E05
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813365.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E06
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813366.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E07
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813367.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E08
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813368.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E09
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813369.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E10
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813370.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E11
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813371.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E12
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813372.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E13
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813373.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E14
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813374.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S01E15
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/813375.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E01
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823166.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E02
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823167.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E03
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823168.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E04
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823169.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E05
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823170.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E06
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823171.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E07
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823172.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E08
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823173.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E09
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823174.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E10
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823175.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E11
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823176.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E12
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823177.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E13
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823178.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E14
-http://play-tv.biz:80/series/Martinez2026/Martinez2026/823179.mkv
-#EXTINF:-1 tvg-logo="http://aioplus.es:80/images/00723e309feb08cd80497161b843224f.jpg" group-title="HBO Max",The Pitt S02E15
-
