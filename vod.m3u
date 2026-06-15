@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Michael" tvg-logo="http://aioplus.es:80/images/b093c8a62d670de3ecea1ad3c54bfe98.jpg" group-title="2026",Michael
 http://play-tv.biz:80/movie/Martinez2026/Martinez2026/829343.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II" tvg-logo="http://aioplus.es:80/images/82798650f40c81e002 E584ef365512da.jpg" group-title="2026",Mortal Kombat II
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat II" tvg-logo="https://agendadecine.ar/wp-content/uploads/2025/03/WARNER-MORTAL-KOMBAT-II.png" group-title="2026",Mortal Kombat II
 http://play-tv.biz:80/movie/Martinez2026/Martinez2026/829345.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Akira" tvg-logo="http://aioplus.es:80/images/a78217724f9557e3a11c059de66a518b.jpg" group-title="1988",Akira
 http://play-tv.biz:80/movie/Martinez2026/Martinez2026/775713.mkv
