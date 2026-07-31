@@ -11,62 +11,17 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Nacionales",Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Nacionales",NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="Nacionales",TVN
-http://217.26.190.76:8888/play/a0m6/index.m3u8
+http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/272251.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UCV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisión_(2018).png" group-title="Nacionales",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Nacionales",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="Nacionales",TV+
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="https://cdn.m3u.cl/logo/491_TV_Chile.png" group-title="Nacionales",TV Chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Nacionales",NTV
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Nacionales",13 Cultura
-https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="Nacionales",13 Cocina
-https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="Nacionales",13 Pop
-https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="Nacionales",13 Teleseries
-https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="Nacionales",13 Festival
-https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="Nacionales",13 Realities
-https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="13 Viajes" tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="Nacionales",13 Viajes
-https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="Nacionales",T13 Radio
-https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="CHV Noticias" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV_Noticias.png" group-title="Nacionales",CHV Noticias
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1763_CHV_Deportes.png" group-title="Nacionales",CHV Deportes
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Nacionales",24 Horas
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="Nacionales",TVN3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="UCV TV Eventos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/1280px-Ucvtvlogo2014mejorado.png" group-title="Nacionales",UCV TV Eventos
-https://pantera1-100gb-cl-movistar.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
 
 ##GEEK_____________________________________________________________________________________________________GEEK##
@@ -133,10 +88,10 @@ http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318603
 http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318621
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://redworld.pro:8880/images/eeafe792a8138ea5239764881a44e50e.png" group-title="Cultura",Animal Planet
-http://rlatinop.com:8880/Alexis@7541/FFhssSgk8Mn9/318624
+http://rlatinop.com:8880/jorge%4057/C7hugVHzDmjt/318624
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT Geo" tvg-logo="http://redworld.pro:8880/images/7a9d62e859726cf7afa212b05ad79f7f.png" group-title="Cultura",NAT Geo
-http://rlatinop.com:8880/Alexis@7541/FFhssSgk8Mn9/318621
+http://rlatinop.com:8880/jorge%4057/C7hugVHzDmjt/318621
 
 
 ##ENTRETENIMIENTO_______________________________________________________________________________ENTRETENIMIENTO##
@@ -150,58 +105,6 @@ http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318626
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://redworld.pro:8880/images/8361b0aa15c201aba7d73d0b6193b6c7.png" group-title="Entretenimiento",HGTV
 http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318631
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png" group-title="Entretenimiento",A&E
-http://livetv-plus.com:8880//live/ACastro2023/NUSEJ/186628.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="Entretenimiento",TLC
-http://rlatinop.com:8880/Alexis@7541/FFhssSgk8Mn9/318629
-
-
-##24/7_____________________________________________________________________________________________________24/7##
-
-#EXTINF:-1 tvg-id="" tvg-name="Ed, Edd y Eddy" tvg-logo="http://redworld.pro:8880/images/8413ab937c447ec1e42fe431954c6a51.jpg" group-title="24/7",Ed, Edd y Eddy
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526332
-
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="http://redworld.pro:8880/images/854fa36e250f15cc53eed7925ef9156f.png" group-title="24/7",Harry Potter
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526369
-
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball 1 al 76" tvg-logo="http://redworld.pro:8880/images/47fae34277b9e3a01392eec0c49a5434.jpg" group-title="24/7",Dragon Ball 1 al 76
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526403
-
-#EXTINF:-1 tvg-id="" tvg-name="Capitan Tsubasa" tvg-logo="https://w7.pngwing.com/pngs/726/876/png-transparent-tsubasa-oozora-captain-tsubasa-road-to-2002-anime-others-television-manga-team-thumbnail.png" group-title="24/7",Capitan Tsubasa
-https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00658-canelamediafast-channela-canelatvinternational/cb7d3e167b716fdd9cca3f6c84f040a3d10e6385513ad6616aa25e9275c51d5382e9a596e71fbe6e0dbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e0594dc66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f895d30e82989171bd54b0360d0e272dcdcd2cc49e09fb8bcb6f68d1702c1e1818bef1caab4d38d4431a0cada791cf0f971ac8881a957927be72fc25e61eab31e763c4e547a4dffdb506126ff3945d6224a2a8f68cff607ee960fff3a4df702c9abb472a419c6f89722a68c0ad9e4efda97f97a633bab67c133ccc9437f0f7db80eebe88469d6bded1aef35721426e1070e237c0b44c8156b712bddd2c314e4452ac994cb6f7b3313e77438abf4bc72c0babd29d82dc1761bf0a765bf870e6481163de315369f7218bfe560ea70750f25f52ff5d238941f98720f4a9dcf0073cb0aca3289d6afcef60b89506a7794e3a68d2a276332f297edffe760c421aa924b589a48b1500039e9fa798e9721a5674406034e1928fda2503a1537f35ed1143437c191b9376ae03bd336870e04d83b1d664478a133525a6863258486595c9cbe1cdb69802dd7ba27ae5b0696a81431d4a04745b83fc44685d723b5f775892066742f2345b4cfe9cc8e296bac9aff6798737781d6fc9f158144702332b3d929e6cd849f1d3338ddb9b0c82bfd652728c32f5554bdec88a38b1ada0d75f03959d521b4c9ec76890207a8944826bc0f958ec9d794a5c304943c7ce73fa5cb2d0d38708923ea2420631bb2ce3d2b3fd862806a7a24b35321b5c582a0121625fee9af0600734bde87fa80da8bb1bf93021595570d78c045191fb374dcc47194e91e09adbe39a795fa007d97cca720cb5580b3a93a515e380a0fce98869407ab793af4bbee1c5c1fbdfc422711c7f72fce55a467ccc29e08665b4fdfd1d1f102055bc3e7e32d7f00a28803c3001372fc3ab24/50/1280x720_3849560/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Princesas Disney" tvg-logo="http://redworld.pro:8880/images/03473caa66abcf6a6165dea7774c8b41.jpg" group-title="24/7",Princesas Disney
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526422
-
-#EXTINF:-1 tvg-id="" tvg-name="Rocky" tvg-logo="http://redworld.pro:8880/images/75e6db90583241de2408ea44d3520859.jpg" group-title="24/7",Rocky
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526420
-
-#EXTINF:-1 tvg-id="" tvg-name="Robotech" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__nmteICfa-SB9CZ3voNncnXAG8JbUTtmRg&s" group-title="24/7",Robotech
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526446
-
-#EXTINF:-1 tvg-id="" tvg-name="Caballeros del Zodiaco" tvg-logo="http://redworld.pro:8880/images/39bc1d236350af0b6d6670555c703e7d.png" group-title="24/7",Caballeros del Zodiaco
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526474
-
-#EXTINF:-1 tvg-id="" tvg-name="Batman Animado" tvg-logo="http://redworld.pro:8880/images/f8f65478effdd79cd447572c7f17cfe8.png" group-title="24/7",Batman Animado
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526491
-
-#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan" tvg-logo="https://www.pngall.com/wp-content/uploads/12/Jackie-Chan-Transparent.png" group-title="24/7",Jackie Chan
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526503
-
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas Dragon Ball" tvg-logo="http://redworld.pro:8880/images/3bf4bbc00905093ed0366e108c97c3f0.png" group-title="24/7",Peliculas Dragon Ball
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526517
-
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas Dragon Ball Z" tvg-logo="http://redworld.pro:8880/images/eeff9c1fdf6786e8712b0bcb6877e34d.jpg" group-title="24/7",Peliculas Dragon Ball Z
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526559
-
-#EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="http://redworld.pro:8880/images/d6356d8d07e7a4ff673074aa4c028ae9.png" group-title="24/7",Digimon
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526566
-
-#EXTINF:-1 tvg-id="" tvg-name="Cantinflas Animado" tvg-logo="https://todotvnews.com/wp-content/uploads/2022/05/image001.png" group-title="24/7",Cantinflas Animado
-http://livetv-plus.com:8880//live/ACastro2023/NUSEJ/107892.ts
-
-
 ##RADIOS_________________________________________________________________________________________________RADIOS##
 
 #EXTINF:-1 tvg-id="" tvg-name="Radio Lampa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DDPcM8XdFr_2G0_ITKGHtzO49YHFLMgOoA&s" group-title="Radios",Radio Lampa
@@ -213,20 +116,26 @@ https://live-hls2.mundogo.cl/telecauquenes/telecauquenes.m3u8
 
 ##DEPORTES_____________________________________________________________________________________________DEPORTES##
 
-#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Radios",⚽ TNT Sport - 1
+#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN - 1" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-logo-icon-svg-download-png-461787.png" group-title="Deporte",⚽ ESPN - 1
+http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/338193.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN - 2" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-logo-icon-svg-download-png-461787.png" group-title="Deporte",⚽ ESPN - 2
+http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/167964.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN - 3" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-logo-icon-svg-download-png-461787.png" group-title="Deporte",⚽ ESPN - 3
+http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/167965.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="⚽ DSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deporte",⚽ DSport
+http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/167962.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="⚽ DSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deporte",⚽ DSport+
+http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/120548.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport - 1
 http://rlatinop.com:8880/live/95195170/n8Mwh3K6AAQd/430575.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Radios",⚽ TNT Sport - 2
+#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport - 2
 http://redworld.pro:8880/Marco.Alarcon_/G6j86rYFE9Z8/430577
 
-http://starlatino.tv:8880/movie/CCAICEDO12/YkXeQjuJbRQc/526100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (1) (Recomendada)" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="⭐️ COPA MUNDIAL 2026 15/06 ⭐️",SEÑAL EXCLUSIVA (1) (Recomendada)
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526169
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (2) (Recomendada)" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="⭐️ COPA MUNDIAL 2026 15/06 ⭐️",SEÑAL EXCLUSIVA (2) (Recomendada)
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/526170
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (3) (Recomendada)" tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="⭐️ COPA MUNDIAL 2026 15/06 ⭐️",SEÑAL EXCLUSIVA (3) (Recomendada)
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/527938
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (4) " tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="⭐️ COPA MUNDIAL 2026 15/06 ⭐️",SEÑAL EXCLUSIVA (4) 
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/532986
-#EXTINF:-1 tvg-id="" tvg-name="SEÑAL EXCLUSIVA (5) " tvg-logo="http://redworld.pro:8880/images/58b00b16946efc06c4add4cbee991ddb.png" group-title="⭐️ COPA MUNDIAL 2026 15/06 ⭐️",SEÑAL EXCLUSIVA (5) 
-http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/532988
+#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport - 3
+http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/430649.m3u8
