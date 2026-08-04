@@ -21,13 +21,16 @@ http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/272251.m3u8
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Nacionales",La Red
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
+http://avefenixtv.com:8080/live/XochiltTovar/PXJMeN34Vm/33117.m3u8
 
 
 ##GEEK_____________________________________________________________________________________________________GEEK##
 
 #EXTINF:-1 tvg-id="" tvg-name="ETC tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Geek",ETC tv
 http://starlatino.tv:8880/live/CCAICEDO12/YkXeQjuJbRQc/273684.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ETC tv - 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Geek",ETC tv - 2
+http://avefenixtv.com:8080/live/XochiltTovar/PXJMeN34Vm/33115.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="K-POP tv" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="Geek",K-POP tv
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
@@ -128,14 +131,17 @@ http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/167965.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="⚽ DSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deporte",⚽ DSport
 http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/167962.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="⚽ DSport+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deporte",⚽ DSport+
+#EXTINF:-1 tvg-id="" tvg-name="⚽ DSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deporte",⚽ DSport 2
 http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/120548.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport - 1
-http://rlatinop.com:8880/live/95195170/n8Mwh3K6AAQd/430575.ts
+http://avefenixtv.com:8080/live/XochiltTovar/PXJMeN34Vm/417204.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport - 2
 http://redworld.pro:8880/Marco.Alarcon_/G6j86rYFE9Z8/430577
 
 #EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport - 3
 http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/430649.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="⚽ CDO 2" tvg-logo="https://pbs.twimg.com/media/DeDECJkXUAE7xxL.jpg" group-title="Deporte",⚽ CDO 2
+http://avefenixtv.com:8080/live/XochiltTovar/PXJMeN34Vm/150398.m3u8
