@@ -15,7 +15,7 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="Nacionales",TVN
-http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/272251.m3u8
+http://redworld.pro:8880/live/Mmunoz24/r8Y2f6JmVxdN/272251.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UCV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisión_(2018).png" group-title="Nacionales",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
@@ -29,7 +29,7 @@ http://avefenixtv.com:8080/live/XochiltTovar/PXJMeN34Vm/33117.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ETC tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Geek",ETC tv
 http://starlatino.tv:8880/live/CCAICEDO12/YkXeQjuJbRQc/273684.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ETC tv - 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Geek",ETC tv - 2
+#EXTINF:-1 tvg-id="" tvg-name="ETC tv 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Geek",ETC tv 2
 http://avefenixtv.com:8080/live/XochiltTovar/PXJMeN34Vm/33115.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="K-POP tv" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="Geek",K-POP tv
@@ -119,29 +119,29 @@ https://live-hls2.mundogo.cl/telecauquenes/telecauquenes.m3u8
 
 ##DEPORTES_____________________________________________________________________________________________DEPORTES##
 
-#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN - 1" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-logo-icon-svg-download-png-461787.png" group-title="Deporte",⚽ ESPN - 1
-http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/338193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN 1" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-logo-icon-svg-download-png-461787.png" group-title="Deporte",⚽ ESPN 1
+http://redworld.pro:8880/live/Mmunoz24/r8Y2f6JmVxdN/338193.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN - 2" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-logo-icon-svg-download-png-461787.png" group-title="Deporte",⚽ ESPN - 2
-http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/167964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN 2" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-logo-icon-svg-download-png-461787.png" group-title="Deporte",⚽ ESPN 2
+http://redworld.pro:8880/live/Mmunoz24/r8Y2f6JmVxdN/167964.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN - 3" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-logo-icon-svg-download-png-461787.png" group-title="Deporte",⚽ ESPN - 3
-http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/167965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽ ESPN 3" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-espn-logo-icon-svg-download-png-461787.png" group-title="Deporte",⚽ ESPN 3
+http://redworld.pro:8880/live/Mmunoz24/r8Y2f6JmVxdN/167965.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="⚽ DSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deporte",⚽ DSport
-http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/167962.m3u8
+http://redworld.pro:8880/live/Mmunoz24/r8Y2f6JmVxdN/167962.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="⚽ DSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deporte",⚽ DSport 2
-http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/120548.m3u8
+http://redworld.pro:8880/live/Mmunoz24/r8Y2f6JmVxdN/120548.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport - 1
+#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport 1
 http://avefenixtv.com:8080/live/XochiltTovar/PXJMeN34Vm/417204.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport - 2
-http://redworld.pro:8880/Marco.Alarcon_/G6j86rYFE9Z8/430577
+#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport 2
+http://redworld.pro:8880/Mmunoz24/r8Y2f6JmVxdN/430577.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport - 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport - 3
-http://redworld.pro:8880/live/MariaBCastillo/9XAAFt46jUSe/430649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚽ TNT Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="Deporte",⚽ TNT Sport 3
+http://redworld.pro:8880/live/Mmunoz24/r8Y2f6JmVxdN/430649.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="⚽ CDO 2" tvg-logo="https://pbs.twimg.com/media/DeDECJkXUAE7xxL.jpg" group-title="Deporte",⚽ CDO 2
 http://avefenixtv.com:8080/live/XochiltTovar/PXJMeN34Vm/150398.m3u8
