@@ -26,30 +26,14 @@ http://avefenixtv.com:8080/live/XochiltTovar/PXJMeN34Vm/33117.m3u8
 
 ##GEEK_____________________________________________________________________________________________________GEEK##
 
-#EXTINF:-1 tvg-id="" tvg-name="ETC tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Geek",ETC tv
-http://starlatino.tv:8880/live/CCAICEDO12/YkXeQjuJbRQc/273684.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ETC tv 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Geek",ETC tv 2
+#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Geek",ETC
 http://avefenixtv.com:8080/live/XochiltTovar/PXJMeN34Vm/33115.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="K-POP tv" tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="Geek",K-POP tv
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Geek",EnerGeek FAN
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Retro" tvg-logo="https://neotv.energeek.cl/assets/img/channels/energeek-c1.png" group-title="Geek",EnerGeek Retro
-https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Retro" tvg-logo="https://energeek.cl/wp-content/themes/EnerGeek-Theme-pop/assets/img/energeekstream.png" group-title="Geek",EnerGeek
+https://cl-2.backend.energeek.cl/bkp/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="" tvg-name="Zyoon tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRGortlgjFybLXHEa6JvKBdSM3eVHk0VbV1A&s" group-title="Geek",Zyoon tv
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Anime Station" tvg-logo="https://i.postimg.cc/Vk1L3YMK/a-ST01.jpg" group-title="Geek",Anime Station
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Memorias Toons" tvg-logo="https://assets.teleon.tv/180_webp/memorias-toons-us.webp" group-title="Geek",Memorias Toons
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-
 
 ##PELICULAS___________________________________________________________________________________________PELICULAS##
 
@@ -64,13 +48,6 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/m
 
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Peliculas",Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Peliculas",Retro Plus TV Señal 2
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Peliculas",Retro Plus TV Señal 3
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-
 
 
 ##CULTURA_______________________________________________________________________________________________CULTURA##
@@ -109,6 +86,9 @@ http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318626
 http://starlatino.tv:8880/CCAICEDO12/YkXeQjuJbRQc/318631
 
 ##RADIOS_________________________________________________________________________________________________RADIOS##
+
+#EXTINF:-1 tvg-id="" tvg-name="EnerGeek Radio" tvg-logo="https://energeek.cl/wp-content/uploads/2026/03/radio_background_1080p.png" group-title="Radios",EnerGeek Radio
+https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=W3bEnerG33k2026
 
 #EXTINF:-1 tvg-id="" tvg-name="Radio Lampa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3DDPcM8XdFr_2G0_ITKGHtzO49YHFLMgOoA&s" group-title="Radios",Radio Lampa
 https://videostream.chileservidores.com:8081/lampa2/tracks-v1a1/mono.m3u8
